@@ -1,88 +1,88 @@
 {
     "stories": [
         {
-            "title": "New York Holds Firm on Marijuana Licensing",
-            "summary": "A judge in New York has dismissed a legal challenge against the state's marijuana licensing program, affirming New York's approach to regulating legal marijuana sales and maintaining the structure intended to privilege local applicants over those from out of state. This decision reinforces the state's commitment to a regulated marijuana market, potentially setting a legal precedent for how states can manage and prioritize local stakeholders in the burgeoning legal cannabis industry.",
-            "location": "New York",
-            "category": "Social Issues",
-            "info": "- [Judge rejects a claim that New York's marijuana licensing cheats out-of-state applicants](https://abcnews.go.com/US/wireStory/judge-rejects-claim-new-yorks-marijuana-licensing-cheats-106938507)"
-        },
-        {
-            "title": "Victoria Monét Triumphs at the Grammys",
-            "summary": "Victoria Monét claimed the prestigious Best New Artist award at the Grammy Awards, marking a significant milestone in her career. This achievement highlights her rising prominence in the music industry and underscores the Grammys' role in recognizing emerging talents.",
-            "location": "Global",
-            "category": "Entertainment & Culture",
-            "info": "- [Victoria Monét wins best new artist Grammy Award](https://abcnews.go.com/US/wireStory/victoria-mont-wins-best-new-artist-grammy-award-106946442)"
-        },
-        {
-            "title": "Denver Party Shooting Leaves Two Dead",
-            "summary": "A violent confrontation at a Denver party resulted in two fatalities and several injuries, illustrating the ongoing issue of gun violence in residential settings in the United States. The incident adds to the statistics of shootings in social gatherings, prompting concerns over public safety and gun control policies.",
-            "location": "Denver, Colorado",
-            "category": "Social Issues",
-            "info": "- [2 people dead, 4 injured after police say gunfire erupts during confrontation at Denver party](https://abcnews.go.com/US/wireStory/denver-shooting-injures-6-people-police-106930708)"
-        },
-        {
-            "title": "Bipartisan Senate Package Aids Ukraine, Secures US Border",
-            "summary": "The U.S. Senate unveiled a $118 billion compromise package aimed at supporting Ukraine in its conflict and enhancing border security to address the surge in migration at the U.S.-Mexico border. This carefully negotiated measure reflects an attempt to balance foreign policy objectives with domestic security concerns, highlighting the complexities of addressing global conflicts and immigration issues in tandem.",
-            "location": "United States",
-            "category": "Politics",
-            "info": "- [What's in the bipartisan Senate package to aid Ukraine, secure U.S. border](https://abcnews.go.com/US/wireStory/bipartisan-senate-package-aid-ukraine-secure-us-border-106946788)"
-        },
-        {
-            "title": "Federal Reserve Plans Interest Rate Cuts",
-            "summary": "Chair Jerome Powell indicated that the Federal Reserve is poised to reduce interest rates three times this year in response to slowing inflation and a healthy economy. This announcement signals a strategic shift in monetary policy aimed at sustaining economic growth while managing inflationary pressures.",
-            "location": "United States",
+            "title": "Global Financial Markets and Economic Shifts",
+            "summary": "Global stock markets, including China and Australia, have experienced significant fluctuations amid changing global interest rates, affecting investor sentiment and posing challenges for international economic stability. Boeing and its 737 MAX issues have compounded the aerospace industry's troubles, further indicating a tense atmosphere in global trade and commerce. The Federal Reserve's plans to cut interest rates reflect attempts to manage inflation while ensuring healthy economic growth, highlighting the complexity of balancing policy in a fluctuating financial environment.",
             "category": "Finance & Economy",
-            "info": "- [Powell: Federal Reserve on track to cut rates this year with inflation slowing and economy healthy](https://abcnews.go.com/US/wireStory/powell-federal-reserve-track-cut-rates-year-inflation-106939082)"
+            "location": "Global",
+            "info": "\n• [(15) WSJ: Chinese Shares Extend Losses Despite Regulator's Pledge to Shore Up Market](https://www.wsj.com/articles/chinese-shares-extend-losses-despite-regulators-pledge-to-shore-up-market-bc961bad)\n\n• [(16) WSJ: Australia Shares Lose 1.0% Ahead of RBA Rate Decision](https://www.wsj.com/articles/nikkei-up-0-5-led-by-auto-financial-stocks-70fcc597)\n\n• [(6) ABC News:  Boeing flags potential delays after supplier finds another problem with some 737 fuselages](https://abcnews.go.com/US/wireStory/boeing-flags-potential-delays-after-supplier-finds-problem-106948795)\n\n• [(22) WSJ: Boeing is reworking 50 undelivered 737 MAX jets after a supplier's employee recently found misdrilled holes on some fuselages.](https://www.wsj.com/business/airlines/boeing-finds-new-problem-with-737-max-fuselages-8ee225b9)\n\n• [(7) ABC News:  Powell: Federal Reserve on track to cut rates this year with inflation slowing and economy healthy](https://abcnews.go.com/US/wireStory/powell-federal-reserve-track-cut-rates-year-inflation-106939082)\n\n• [(19) WSJ: Fed chief Powell said that the central bank has shifted its focus toward deciding when to begin cutting interest rates, but that solid economic growth means officials didn't have to rush that decision.](https://www.wsj.com/economy/central-banking/powell-says-fed-has-new-focus-when-to-cut-rates-dbc3f6af)\n"
         },
         {
-            "title": "Australia Condemns China's Sentence for Writer",
-            "summary": "Australia expressed outrage at China's imposition of a suspended death sentence on Chinese Australian writer Yang Hengjun, highlighting tensions between Australia and China over human rights and the treatment of dual citizens. This case underscores the diplomatic strains and the broader geopolitical rivalry between Western nations and China.",
-            "location": "China",
+            "title": "Reactions to Climate and Environmental Crises",
+            "summary": "California faces devastating atmospheric rivers, causing widespread flooding, power outages, and severe weather conditions, highlighting the urgent need for climate action. Meanwhile, fast-moving wildfires in Chile have led to significant loss of life and destruction, emphasizing the global impact of environmental disasters. These events underscore the importance of addressing climate change and improving disaster preparedness worldwide.",
+            "category": "Environment",
+            "location": "California; Chile",
+            "info": "\n• [(3) ABC News:  Second atmospheric river in days churns through California, knocking out power and flooding roads](https://abcnews.go.com/US/wireStory/atmospheric-river-days-churns-california-knocking-power-flooding-106949076)\n\n• [(28) WSJ: A massive storm system hit much of California, bringing prolonged downpours and high winds to the nation's most populous state.](https://www.wsj.com/us-news/climate-environment/severe-storm-threatens-california-e1cabf53)\n\n• [(46) New York Times: Forest Fire on Chile’s Coast Kills At Least 64 and Leaves Hundreds Missing](https://www.nytimes.com/2024/02/04/world/americas/chile-forest-fires.html)\n\n• [(47) New York Times: Incendios forestales en Chile causan 112 muertos y desaparecidos](https://www.nytimes.com/es/2024/02/04/espanol/chile-incendio.html)\n\n• [(76) Washington Post: Deadly wildfires kill at least 112 in Chile ](https://www.washingtonpost.com/world/2024/02/03/chile-wildfires-valparaiso-arson-emergency/)\n"
+        },
+        {
+            "title": "International Diplomacy and Security Concerns",
+            "summary": "Tensions rise as the U.S. and U.K. launch strikes against Iran-backed Houthi rebels in Yemen following attacks on international shipping. Meanwhile, Saudi Arabia seeks a defense pact with the United States ahead of the 2024 presidential election, indicating shifting alliances and concerns over regional stability. These developments point to a complex landscape of international relations, with potential implications for global peace and security.",
             "category": "World News",
-            "info": "- [Australia says it is \"appalled\" at China’s suspended death sentence for Chinese Australian writer Yang Hengjun](https://abcnews.go.com/US/wireStory/australia-appalled-chinas-suspended-death-sentence-chinese-australian-106945326)"
+            "location": "Middle East",
+            "info": "\n• [(32) WSJ: The U.S. and U.K. launched a fresh wave of strikes against Iran-backed Houthi rebels in Yemen in response to their attacks on international shipping in the Red Sea, as Secretary of State Blinken prepared to head to the Middle East in hopes of brokering a pause in Israel's war in Gaza.](https://www.wsj.com/world/middle-east/u-s-strikes-steer-clear-of-irans-red-lines-7076408b)\n\n• [(40) New York Times: What Business Leaders Are Saying About the Red Sea Attacks](https://www.nytimes.com/2024/02/05/business/red-sea-shipping-companies-cost.html)\n\n• [(53) Fox News: US forces launch self-defense strike on Houthis, accuse group of presenting 'an imminent threat' in Red Sea](https://www.foxnews.com/world/us-forces-launch-self-defense-strike-houthis-accuse-group-presenting-imminent-threat-red-sea)\n\n• [(61) Fox News: Saudi Arabia pushes for US defense pact as 2024 presidential election looms](https://www.foxnews.com/world/saudi-arabia-pushes-us-defense-pact-2024-presidential-election-looms)\n\n• [(63) Fox News: Iran issues warning to US about possible attacks on 2 cargo ships suspected of spy activities](https://www.foxnews.com/world/iran-issues-warning-u-s-possible-attacks-cargo-ships-suspected-spy-activities)\n\n• [(69) Washington Post: Middle East conflict live updates: U.S. promises more retaliation against militias; Blinken to visit region](https://www.washingtonpost.com/world/2024/02/05/israel-hamas-war-news-gaza-palestine/)\n\n• [(70) Washington Post: Israel has released dozens of Palestinian detainees at the Kerem Shalom checkpoint in Gaza in recent...](https://www.washingtonpost.com)\n\n• [(71) Washington Post: U.S. forces struck a Houthi anti-ship cruise missile in Yemen at 4 a.m. local time Sunday,...](https://www.washingtonpost.com)\n\n• [(77) Washington Post: U.S. struck more Houthi missile sites on Sunday, Centcom says](https://www.washingtonpost.com)\n\n• [(80) Washington Post: Houthis promise ‘escalation’ after U.S., British strikes in Yemen](https://www.washingtonpost.com/world/2024/02/04/israel-hamas-war-news-gaza-palestine/)\n"
         },
         {
-            "title": "GOP Governors Pressure Biden on Border",
-            "summary": "GOP governors have intensified their efforts to pressure President Joe Biden over migrant crossings at the U.S.-Mexico border. Led by Texas Gov. Greg Abbott, this renewed focus on border security demonstrates the ongoing political and ideological divides surrounding immigration policy in the United States.",
-            "location": "Texas",
+            "title": "El Salvador's Political Landscape",
+            "summary": "President Nayib Bukele secures a significant re-election victory, largely attributed to his hardline stance on gang violence despite concerns over civil liberties. This majority support showcases popular approval of stringent security measures in combating crime, but it raises questions about the future of democracy and human rights in El Salvador.",
             "category": "Politics",
-            "info": "- [GOP governors back at Texas border to keep pressure on Biden over migrant crossings](https://abcnews.go.com/US/wireStory/gop-governors-back-texas-border-pressure-biden-migrant-106936300)"
+            "location": "El Salvador",
+            "info": "\n• [(17) WSJ: El Salvador's Anti-Gang Crusader Claims Sweeping Re-Election Victory](https://www.wsj.com/articles/el-salvadors-anti-gang-crusader-heads-for-sweeping-re-election-win-c7dc2af8)\n\n• [(27) WSJ: Nayib Bukele was set to win re-election as El Salvador's president by a wide margin as his relentless campaign to dismantle El Salvador's criminal gangs has proven popular.](https://www.wsj.com/world/americas/el-salvadors-anti-gang-crusader-heads-for-sweeping-re-election-win-c7dc2af8)\n\n• [(39) Huffpost: El Salvador Celebrates Likely Reelection Of ‘World’s Coolest Dictator’](https://www.huffpost.com/entry/el-salvador-elections-nayib-bukele_n_65c0535de4b05c8779f9fad2)\n\n• [(50) New York Times: El Salvador’s Nayib Bukele Wins Re-Election](https://www.nytimes.com/2024/02/04/world/americas/election-el-salvador-bukele.html)\n\n• [(75) Washington Post: ‘World’s coolest dictator’ heads for landslide win in El Salvador: What to know](https://www.washingtonpost.com/world/2024/02/03/el-salvador-election-nayib-bukele/)\n"
         },
         {
-            "title": "Biden Warns Against Trump's Reelection",
-            "summary": "President Joe Biden has publicly warned that the reelection of Donald Trump would lead to detrimental outcomes for the United States, citing a list of potential negative impacts. Biden's remarks reflect the highly polarized political climate and the significant stakes involved in the upcoming presidential election.",
-            "location": "United States",
-            "category": "Politics",
-            "info": "- [Biden warns of a 'nightmare' future for the country if Trump should win again, and lists reasons why](https://abcnews.go.com/US/wireStory/biden-sets-sights-las-vegas-days-nevadas-primary-106931464)"
-        },
-        {
-            "title": "Increased Security in Dearborn Amid Controversy",
-            "summary": "Following an opinion piece labeling Dearborn, Michigan, as \"America's jihad capital,\" the city has increased its security measures. This response to the controversial characterization highlights the tensions surrounding discussions of terrorism, immigration, and Islamophobia in the United States.",
-            "location": "Dearborn, Michigan",
-            "category": "Social Issues",
-            "info": "- [Michigan city ramps up security after op-ed calls it 'America's jihad capital'](https://abcnews.go.com/US/wireStory/michigan-city-ramps-security-after-op-ed-calls-106942179)"
-        },
-        {
-            "title": "Indonesia's Economic Growth Surprises",
-            "summary": "Despite a slowdown in 2023, Indonesia's economy experienced a surprising uptick in growth during the final quarter. As Southeast Asia’s largest economy, this performance exceeded expectations and signals potential resilience amidst global economic uncertainties.",
-            "location": "Indonesia",
-            "category": "Finance & Economy",
-            "info": "- [Indonesia's Economy Slowed in 2023 But Picked Up in Final Quarter](https://www.wsj.com/articles/indonesias-economy-slowed-in-2023-but-picked-up-in-final-quarter-8f85ab35)"
-        },
-        {
-            "title": "Boeing Battles New 737 MAX Fuselage Issues",
-            "summary": "Boeing disclosed it must rectify misdrilled holes in about 50 new 737 jets, a problem likely to delay jet deliveries. This latest issue with the 737 MAX jets adds to the ongoing challenges faced by Boeing in ensuring the safety and reliability of its aircraft, impacting its reputation and operations.",
-            "location": "Global",
+            "title": "Tech Giants Navigate Global Challenges",
+            "summary": "Samsung’s acquittal in a critical financial misconduct case highlights issues of corporate governance within South Korea's chaebol system. Facebook marks two decades of significant transformation, facing both milestones and challenges as a tech behemoth. These events reflect the ongoing navigation of global and regulatory challenges by tech giants, emphasizing their influence on both economic and social landscapes.",
             "category": "Science & Technology",
-            "info": "- [Boeing Finds New Problem With 737 MAX Fuselages](https://www.wsj.com/articles/boeing-finds-new-problem-with-737-max-fuselages-8ee225b9)"
+            "location": "Global",
+            "info": "\n• [(20) WSJ: Facebook turned 20 years old, having grown from a startup launched in a university dorm room into a tech giant with a market cap exceeding $1 trillion.](https://www.wsj.com/tech/facebook-turns-20-from-mark-zuckerbergs-harvard-dorm-room-to-the-metaverse-817a73da)\n\n• [(49) New York Times: Samsung’s Lee Jae-yong Acquitted in Stock, Accounting Fraud Case](https://www.nytimes.com/2024/02/05/business/samsung-lee-south-korea.html)\n"
         },
         {
-            "title": "Border Deal Targets Illegal Immigration, Aids Allies",
-            "summary": "A bipartisan agreement in the U.S. aims to reduce illegal immigration while providing aid to Israel and Ukraine. Despite opposition from top House Republicans, this measure demonstrates the complexities of balancing domestic policy objectives with international support commitments.",
+            "title": "Australian Government Condemns China's Actions",
+            "summary": "Australia expresses strong disapproval of China’s decision to impose a suspended death sentence on Chinese-Australian writer Yang Hengjun. This incident underscores the tense diplomatic relations between Australia and China, spotlighting issues of human rights and the complicated political dynamics that influence international relations.",
+            "category": "World News",
+            "location": "Australia; China",
+            "info": "\n• [(8) ABC News:  Australia says it is \"appalled\" at China’s suspended death sentence for Chinese Australian writer Yang Hengjun](https://abcnews.go.com/US/wireStory/australia-appalled-chinas-suspended-death-sentence-chinese-australian-106945326)\n\n• [(67) Washington Post: China hands Australian writer suspended death sentence in spy case](https://www.washingtonpost.com/world/2024/02/05/yang-hengjun-china-suspended-death-sentence/)\n"
+        },
+        {
+            "title": "Grammy Awards 2024 Highlights",
+            "summary": "Taylor Swift, Victoria Monét, and other artists shine at the Grammy Awards, with Swift's historic win and the announcement of a new album. Performances by notable artists like Tracy Chapman and Luke Combs received acclaim, emphasizing the Grammy's role in celebrating musical achievements and setting trends in the entertainment industry.",
+            "category": "Entertainment & Culture",
             "location": "United States",
+            "info": "\n• [(1) ABC News:  Victoria Monét wins best new artist Grammy Award](https://abcnews.go.com/US/wireStory/victoria-mont-wins-best-new-artist-grammy-award-106946442)\n\n• [(14) WSJ: The Biggest Grammys Moments, From Taylor Swift's Historic Win to Miley Cyrus to Joni Mitchell](https://www.wsj.com/articles/2024-grammys-taylor-swift-joni-mitchell-miley-cyrus-b9bd61ed)\n\n• [(52) Fox News: Taylor Swift takes home Grammys album of the year: Complete winners list](https://www.foxnews.com/entertainment/taylor-swift-takes-home-grammys-album-year-complete-winners-list)\n\n• [(54) Fox News: Grammy awards: Taylor Swift announces new album after winning best pop vocal album](https://www.foxnews.com/entertainment/grammy-awards-taylor-swift-announces-new-album-after-winning-best-pop-vocal-album)\n\n• [(55) Fox News: Tracy Chapman, Luke Combs’ Grammys performance of ‘Fast Car’ gets standing ovation](https://www.foxnews.com/entertainment/tracy-chapman-luke-combs-grammys-performance-of-fast-car-gets-standing-ovation)\n\n• [(56) Fox News: Taylor Swift impressed by Grammys joke about her camera time during NFL games](https://www.foxnews.com/entertainment/taylor-swift-impressed-by-grammys-joke-about-her-camera-time-during-nfl-games)\n"
+        },
+        {
+            "title": "US Political Landscape and 2024 Elections",
+            "summary": "The Senate's comprehensive border and military aid bill faces challenges, reflecting the complexities of bipartisan negotiations in an increasingly polarized political environment. Meanwhile, President Biden and former President Trump articulate their visions for the future, highlighting the stakes of the upcoming 2024 presidential election. These developments showcase the ongoing debate over America's direction and the impact of political leadership on national policies.",
             "category": "Politics",
-            "info": "- [Border Deal to Cut Illegal Immigration Is Released After Months of Talks](https://www.wsj.com/articles/border-deal-to-cut-illegal-immigration-is-released-after-months-of-talks-26a66211)"
+            "location": "United States",
+            "info": "\n• [(5) ABC News:  What's in the bipartisan Senate package to aid Ukraine, secure U.S. border](https://abcnews.go.com/US/wireStory/bipartisan-senate-package-aid-ukraine-secure-us-border-106946788)\n\n• [(10) ABC News:  GOP governors back at Texas border to keep pressure on Biden over migrant crossings](https://abcnews.go.com/US/wireStory/gop-governors-back-texas-border-pressure-biden-migrant-106936300)\n\n• [(11) ABC News:  Biden warns of a 'nightmare' future for the country if Trump should win again, and lists reasons why](https://abcnews.go.com/US/wireStory/biden-sets-sights-las-vegas-days-nevadas-primary-106931464)\n\n• [(12) ABC News:  Who will run the US House in 2025? Once again, control could tip on California swing districts](https://abcnews.go.com/US/wireStory/run-us-house-2025-control-tip-california-swing-106948602)\n\n• [(30) WSJ: Biden handily won the South Carolina Democratic primary, marking his first appearance on the ballot this cycle.](https://www.wsj.com/politics/elections/biden-easily-wins-south-carolina-primary-starting-march-to-nomination-4f3f0610)\n\n• [(31) WSJ: The Senate released long-awaited details of a sprawling bipartisan bill designed to sharply reduce illegal border crossings and bolster embattled allies Ukraine and Israel, but the bill drew sharp criticism from top House Republicans who said it had no chance of passing their chamber.](https://www.wsj.com/politics/policy/border-deal-to-cut-illegal-immigration-is-released-after-months-of-talks-26a66211)\n\n• [(37) BBC: More China tariffs if re-elected, Donald Trump says](https://www.bbc.co.uk/news/business-68201370?at_medium=RSS&at_campaign=KARANGA)\n"
+        },
+        {
+            "title": "Economic Policies and Inflation Management",
+            "summary": "The Federal Reserve signals a readiness to cut interest rates amidst slowing inflation, with Chair Jerome Powell emphasizing the need for careful economic management. These decisions highlight the central bank's efforts to sustain growth while addressing inflationary pressures, showcasing the delicate balance required in monetary policy.",
+            "category": "Finance & Economy",
+            "location": "United States",
+            "info": "\n• [(7) ABC News:  Powell: Federal Reserve on track to cut rates this year with inflation slowing and economy healthy](https://abcnews.go.com/US/wireStory/powell-federal-reserve-track-cut-rates-year-inflation-106939082)\n\n• [(51) New York Times: Fed Chair Powell Says Officials Need More ‘Good’ Data Before Cutting Rates](https://www.nytimes.com/2024/02/04/business/economy/jerome-powell-rates-federal-reserve.html)\n"
+        },
+        {
+            "title": "Global Security and Middle East Conflicts",
+            "summary": "The Israeli government firmly opposes any concessions to Hamas, emphasizing a commitment to defeating terrorism without compromising. Simultaneously, the Middle East witnesses increased military activity with U.S. interventions against Houthi rebels and Iran's warning against potential engagements, reflecting ongoing tensions and the complex dynamics of regional security.",
+            "category": "World News",
+            "location": "Middle East",
+            "info": "\n• [(29) WSJ: Israel's national security minister said he would oppose any deal with Hamas that would free thousands of Palestinians held for terrorism or end the war before Hamas was fully defeated.](https://www.wsj.com/world/middle-east/the-israeli-firebrand-driving-netanyahu-further-to-the-right-dd9e8113)\n\n• [(32) WSJ: The U.S. and U.K. launched a fresh wave of strikes against Iran-backed Houthi rebels in Yemen in response to their attacks on international shipping in the Red Sea, as Secretary of State Blinken prepared to head to the Middle East in hopes of brokering a pause in Israel's war in Gaza.](https://www.wsj.com/world/middle-east/u-s-strikes-steer-clear-of-irans-red-lines-7076408b)\n\n• [(63) Fox News: Iran issues warning to US about possible attacks on 2 cargo ships suspected of spy activities](https://www.foxnews.com/world/iran-issues-warning-u-s-possible-attacks-cargo-ships-suspected-spy-activities)\n"
+        },
+        {
+            "title": "Cultural and Environmental Reflections",
+            "summary": "Australia's love-hate relationship with the 'bin chicken' showcases societal attitudes towards wildlife and environmental adaptation in urban spaces. In Kenya, a study reveals how ants are causing ecological shifts, affecting the lion population and highlighting intricate connections within ecosystems, demonstrating the diverse ways humans and nature interact across continents.",
+            "category": "Environment",
+            "location": "Australia; Kenya",
+            "info": "\n• [(72) Washington Post: Behold, the bin chicken: Sydney’s stinky, grimy but (mostly) beloved bird](https://www.washingtonpost.com/world/2024/02/05/australia-bin-chicken-white-ibis/)\n\n• [(79) Washington Post: In Kenya, the king of the jungle faces a new challenge — ants](https://www.washingtonpost.com)\n"
+        },
+        {
+            "title": "Sports Milestones and Developments",
+            "summary": "The announcement that MetLife Stadium in New Jersey will host the 2026 World Cup final marks a significant milestone in sports history, showcasing the venue's prominence and anticipated contribution to the global sporting landscape. This decision highlights the ongoing importance of sporting events in fostering international unity and community engagement.",
+            "category": "Sports",
+            "location": "New Jersey",
+            "info": "\n• [(26) WSJ: The MetLife Stadium in northern New Jersey, home of theNFL's New York Jets and Giants, will host the 2026 World Cup soccer final.](https://www.wsj.com/sports/soccer/new-york-new-jersey-2026-world-cup-final-7b4e6b73)\n\n• [(64) Fox News: MetLife Stadium chosen to host 2026 World Cup Final](https://www.foxnews.com/sports/metlife-stadium-chosen-host-2026-world-cup-final)\n"
         }
     ]
 }
