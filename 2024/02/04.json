@@ -1,64 +1,88 @@
 {
     "stories": [
         {
-            "title": "Chile battles catastrophic wildfires",
-            "summary": "Chile is grappling with devastating wildfires, leading to a tragic loss of at least 112 lives as per the latest reports, causing President Gabriel Boric to declare a state of emergency. High temperatures and a long-standing drought have exacerbated the blazes, highlighting the severe impact of climate change on the country. Despite efforts, the fast-moving fires swept through central Chile's coastal hills, leading to major destruction and leaving hundreds missing. These events mark some of the deadliest wildfires the country has faced, underscoring the urgent need for comprehensive firefighting and disaster management strategies.",
-            "info": "- [Deadly wildfires kill at least 112 in Chile](https://www.washingtonpost.com/world/2024/02/03/chile-wildfires-valparaiso-arson-emergency/)\n- [Forest Fire on Chile’s Coast Kills At Least 64 and Leaves Hundreds Missing](https://www.nytimes.com/2024/02/04/world/americas/chile-forest-fires.html)\n- [Incendios forestales en Chile causan 99 muertos y desaparecidos](https://www.nytimes.com/es/2024/02/04/espanol/chile-incendio.html)"
+            "title": "NY Judge Upholds State's Marijuana Licensing Program",
+            "summary": "A New York state judge has dismissed a lawsuit challenging the state's marijuana licensing program, which was accused of favoring in-state applicants over those from out of state. The decision supports New York's approach to legalizing and regulating marijuana sales within its borders. This outcome maintains the status quo of the state's efforts to establish a regulated market for marijuana, aiming to ensure local businesses benefit.",
+            "location": "New York",
+            "category": "Social Issues",
+            "info": "- Judge rejects a claim that New York's marijuana licensing cheats out-of-state applicants\n[ABC News](https://abcnews.go.com/US/wireStory/judge-rejects-claim-new-yorks-marijuana-licensing-cheats-106938507)"
         },
         {
-            "title": "Texas border security escalates",
-            "summary": "Texas Governor Greg Abbott, alongside Republican governors, announced an expansion of efforts to enforce immigration laws, aiming to curb illegal crossings on the U.S.-Mexico border. This move signifies an escalation in the state's immigration enforcement, positioning it at the center of a legal confrontation with the federal government. In response, a bipartisan measure, which also includes aid for Israel and Ukraine and proposes measures to cut illegal immigration, was released after months of negotiations, although its enactment remains uncertain.",
-            "info": "- [GOP governors back at Texas border to keep pressure on Biden over migrant crossings](https://abcnews.go.com/US/wireStory/gop-governors-back-texas-border-pressure-biden-migrant-106936300)\n- [Border Deal to Cut Illegal Immigration Is Released After Months of Talks](https://www.wsj.com/articles/border-deal-to-cut-illegal-immigration-is-released-after-months-of-talks-26a66211)\n- [Texas Will Expand Effort to Control Land Along Mexican Border, Abbott Says](https://www.nytimes.com/2024/02/04/us/texas-border-abbott-governors.html)\n- [The Texas Border War and the Battle Within the Supreme Court](https://www.nytimes.com/2024/02/04/opinion/texas-border-supreme-court-immigration.html)"
+            "title": "Shooting at Denver Party Leaves Two Dead, Four Injured",
+            "summary": "A tragic event unfolded in Denver when a confrontation at a late-night party escalated into gunfire, resulting in two fatalities and four injuries. This incident has once again sparked conversations around gun violence and safety in social gatherings within residential areas. The police are investigating the situation, but the incident highlights the continuing challenges of managing violence at public and private events.",
+            "location": "Denver",
+            "category": "Social Issues",
+            "info": "- 2 people dead, 4 injured after police say gunfire erupts during confrontation at Denver party\n[ABC News](https://abcnews.go.com/US/wireStory/denver-shooting-injures-6-people-police-106930708)"
         },
         {
-            "title": "Federal Reserve's rate cuts anticipation",
-            "summary": "Jerome Powell, the Federal Reserve Chair, announced the Fed's plans to reduce interest rates three times this year, citing slowing inflation and a healthy economy. This strategy aims to provide economic stability, as officials seek more 'good' data before proceeding with rate cuts. Powell emphasized the importance of gaining confidence on inflation, marking a significant focus shift for the Fed.",
-            "info": "- [Powell: Federal Reserve on track to cut rates this year with inflation slowing and economy healthy](https://abcnews.go.com/US/wireStory/powell-federal-reserve-track-cut-rates-year-inflation-106939082)\n- [Powell Says Fed Has New Focus: When to Cut Rates](https://www.wsj.com/articles/powell-says-fed-has-new-focus-when-to-cut-rates-dbc3f6af)\n- [Fed Chair Powell Says Officials Need More ‘Good’ Data Before Cutting Rates](https://www.nytimes.com/2024/02/04/business/economy/jerome-powell-rates-federal-reserve.html)"
+            "title": "Federal Reserve Plans for Interest Rate Cuts",
+            "summary": "Federal Reserve Chair Jerome Powell has announced the central bank's intention to cut interest rates three times throughout the year. This strategic move, anticipated to start as early as May, is seen as a response to slowing inflation and a healthy economy. The adjustments are closely watched by investors and economists, as they influence borrowing costs and can impact both the stock market and the broader economy.",
+            "location": "Global",
+            "category": "Finance & Economy",
+            "info": "- Powell: Federal Reserve on track to cut rates this year with inflation slowing and economy healthy\n[ABC News](https://abcnews.go.com/US/wireStory/powell-federal-reserve-track-cut-rates-year-inflation-106939082)"
         },
         {
-            "title": "Grammys 2024 highlights",
-            "summary": "The 2024 Grammy Awards saw Taylor Swift announcing a new album after winning the best pop vocal album. Additionally, a duet performance of ‘Fast Car’ by Tracy Chapman and Luke Combs received a standing ovation, marking a notable moment of the night. Swift's response to Grammys host Trevor Noah's joke highlighted her significant presence at the event.",
-            "info": "- [Grammy awards: Taylor Swift announces new album after winning best pop vocal album](https://www.foxnews.com/entertainment/grammy-awards-taylor-swift-announces-new-album-after-winning-best-pop-vocal-album)\n- [Tracy Chapman, Luke Combs’ Grammys performance of ‘Fast Car’ gets standing ovation](https://www.foxnews.com/entertainment/tracy-chapman-luke-combs-grammys-performance-of-fast-car-gets-standing-ovation)\n- [Taylor Swift impressed by Grammys joke about her camera time during NFL games](https://www.foxnews.com/entertainment/taylor-swift-impressed-by-grammys-joke-about-her-camera-time-during-nfl-games)"
+            "title": "Australia Condemns China's Treatment of Australian Writer",
+            "summary": "Australia has expressed deep concern over China's decision to issue a suspended death sentence to Chinese Australian writer Yang Hengjun. Arrested in 2019 on national security charges, Yang's treatment and sentencing have strained relations between Australia and China, highlighting issues of human rights and diplomatic tensions. Australia's government is advocating for Yang's well-being and challenging the fairness of his trial and sentencing.",
+            "location": "Global",
+            "category": "World News",
+            "info": "- Australia says it is \"appalled\" at China’s suspended death sentence for Chinese Australian writer Yang Hengjun\n[ABC News](https://abcnews.go.com/US/wireStory/australia-appalled-chinas-suspended-death-sentence-chinese-australian-106945326)"
         },
         {
-            "title": "Iran warns US over possible attacks on cargo ships",
-            "summary": "Tensions in the Middle East escalate as Iran issues a warning to the United States regarding possible actions against cargo ships in the region, suspected of operating as spy vessels. This development signifies increasing geopolitical risks that could affect maritime security and international relations.",
-            "info": "- [Iran issues warning to US about possible attacks on 2 cargo ships suspected of spy activities](https://www.foxnews.com/world/iran-issues-warning-u-s-possible-attacks-cargo-ships-suspected-spy-activities)"
+            "title": "GOP Governors Increase Pressure on Biden Over Border",
+            "summary": "Texas Governor Greg Abbott and other GOP governors have made a public stand at the Texas-Mexico border to emphasize their efforts and challenges in controlling illegal crossings. This act is part of a broader political strategy to place immigration and border security at the forefront of national discussions, pressing the Biden administration for more stringent measures and support.",
+            "location": "Texas",
+            "category": "Politics",
+            "info": "- GOP governors back at Texas border to keep pressure on Biden over migrant crossings\n[ABC News](https://abcnews.go.com/US/wireStory/gop-governors-back-texas-border-pressure-biden-migrant-106936300)"
         },
         {
-            "title": "Saudi Arabia seeks US defense pact",
-            "summary": "With the 2024 presidential election on the horizon, Saudi Arabia is pushing to finalize a defense pact with the United States. The kingdom appears willing to ease its stance on demanding Palestinian statehood as part of the negotiations, potentially altering the dynamics of Middle Eastern geopolitics.",
-            "info": "- [Saudi Arabia pushes for US defense pact as 2024 presidential election looms](https://www.foxnews.com/world/saudi-arabia-pushes-us-defense-pact-2024-presidential-election-looms)"
+            "title": "Biden Cautions Against Dangers of Trump Re-election",
+            "summary": "In a passionate address, President Joe Biden outlined a series of concerns regarding the potential consequences of a Donald Trump victory in the upcoming presidential election. Biden argued that Trump's re-election could lead the country into a 'nightmare' scenario, emphasizing the importance of continuity in leadership to ensure progress on various domestic and international fronts.",
+            "location": "United States",
+            "category": "Politics",
+            "info": "- Biden warns of a 'nightmare' future for the country if Trump should win again, and lists reasons why\n[ABC News](https://abcnews.go.com/US/wireStory/biden-sets-sights-las-vegas-days-nevadas-primary-106931464)"
         },
         {
-            "title": "MetLife Stadium to host 2026 World Cup Final",
-            "summary": "FIFA has selected MetLife Stadium in New Jersey as the venue for the 2026 World Cup Final. This decision underlines the significance of the United States in the global soccer community and sets the stage for what promises to be an exciting tournament.",
-            "info": "- [MetLife Stadium chosen to host 2026 World Cup Final](https://www.foxnews.com/sports/metlife-stadium-chosen-host-2026-world-cup-final)"
+            "title": "Dearborn Increases Security After 'Jihad Capital' Claim",
+            "summary": "Following an opinion piece that labeled Dearborn, Michigan, as 'America's jihad capital,' the city has taken steps to enhance security measures. This response aims to protect residents and dispel any misconceptions about the community, which has faced increased scrutiny due to its significant Arab-American population. The city's actions also highlight the broader issue of how media representation can influence public perception and community safety.",
+            "location": "Michigan",
+            "category": "Social Issues",
+            "info": "- Michigan city ramps up security after op-ed calls it 'America's jihad capital'\n[ABC News](https://abcnews.go.com/US/wireStory/michigan-city-ramps-security-after-op-ed-calls-106942179)"
         },
         {
-            "title": "U.S. strikes Houthi missile sites",
-            "summary": "The U.S. military executed targeted strikes on Houthi missile facilities, responding to the Iranian-backed group's repeated attempts to menace maritime security in the Red Sea. This action represents an ongoing conflict between Houthi rebels and U.S. interests, highlighting the broader Middle East geopolitical struggle.",
-            "info": "- [U.S. struck more Houthi missile sites on Sunday, Centcom says](https://www.washingtonpost.com)\n- [US forces launch self-defense strike on Houthis, accuse group of presenting 'an imminent threat' in Red Sea](https://www.foxnews.com/world/us-forces-launch-self-defense-strike-houthis-accuse-group-presenting-imminent-threat-red-sea)"
+            "title": "California Battles Severe Weather and Flooding",
+            "summary": "Northern California is grappling with the effects of back-to-back atmospheric rivers, causing widespread flooding, power outages, and significant damage. As the storm moves south, officials warn of hurricane-force winds and the potential for mudslides, highlighting the region's vulnerability to extreme weather events and the challenges of emergency response and infrastructure resilience in the face of climate variability.",
+            "location": "California",
+            "category": "Environment",
+            "info": "- Second atmospheric river in days blows into California, knocking out power and flooding roads\n[ABC News](https://abcnews.go.com/US/wireStory/powerful-storm-days-blows-california-sparking-warnings-hurricane-106933246)"
         },
         {
-            "title": "El Salvador's leader poised for reelection",
-            "summary": "El Salvador's President Nayib Bukele, dubbed the 'World's Coolest Dictator', is almost certain to secure a second five-year term. His leadership style has garnered both domestic and international attention, highlighting a unique political trajectory within the Central American nation.",
-            "info": "- [El Salvador Celebrates Likely Reelection Of ‘World’s Coolest Dictator’](https://www.huffpost.com/entry/el-salvador-elections-nayib-bukele_n_65c0535de4b05c8779f9fad2)"
+            "title": "China Boosts Property Sector with 'Whitelist' Financing",
+            "summary": "In an effort to stabilize its flagging real estate market, China is providing loans to thousands of real-estate projects through a new 'whitelist' financing program. This initiative represents Beijing's intensified push to mitigate a deepening liquidity crisis in the property sector, which has significant implications for the country's economic health and global real estate markets.",
+            "location": "China",
+            "category": "Finance & Economy",
+            "info": "- China Property Projects Set to Receive Funding\n[WSJ](https://www.wsj.com/articles/china-real-estate-projects-set-to-receive-loans-under-whitelist-program-d938b49e)"
         },
         {
-            "title": "Florida man disrupts crime scene investigation",
-            "summary": "A Florida man was arrested after he breached a police perimeter at a plane crash site, falsely claiming to be a part of the medical staff. This episode underscores the challenges law enforcement face in securing crime scenes and highlights the potential dangers of unauthorized individuals interfering with emergency operations.",
-            "info": "- [Florida man arrested after crossing crime scene tape at plane crash site, claimed to be medical staff](https://www.foxnews.com/us/florida-man-arrested-crossing-crime-scene-tape-plane-crash-site-claimed-medical-staff)\n- [Florida man arrested after crossing crime scene tape at plane crash site, claimed to be medical staff](https://news.yahoo.com/florida-man-arrested-crossing-crime-000841568.html)"
+            "title": "Putin's Unchallenged Path to Re-election",
+            "summary": "In the upcoming presidential election in Russia, Vladimir Putin faces no real opposition, with permitted candidates not seriously contending for victory. This situation underscores the controlled nature of Russian politics and the lack of genuine democratic processes, reflecting Putin's tight grip on power and the challenges for political pluralism and opposition in the country.",
+            "location": "Russia",
+            "category": "Politics",
+            "info": "- Putin's Presidential Election Rivals Aren't Even Pretending to Put Up a Fight\n[WSJ](https://www.wsj.com/articles/putins-presidential-election-rivals-arent-even-pretending-to-put-up-a-fight-1b59d53e)"
         },
         {
-            "title": "Australia condemns China's sentencing of writer",
-            "summary": "Australia expressed deep concerns over China's decision to issue a suspended death sentence to Chinese Australian writer Yang Hengjun. This development adds tension to the bilateral relations between Australia and China, as human rights considerations come to the forefront.",
-            "info": "- [Australia says it is \"appalled\" at China’s suspended death sentence for Chinese Australian writer Yang Hengjun](https://abcnews.go.com/US/wireStory/australia-appalled-chinas-suspended-death-sentence-chinese-australian-106945326)"
+            "title": "Saudi Arabia Seeks US Defense Pact Ahead of Election",
+            "summary": "As the 2024 US presidential election approaches, Saudi Arabia is reportedly pursuing a defense pact with the United States, indicating a strategic shift in its demands regarding Palestinian statehood. This move reflects the evolving geopolitical landscape and the kingdom's efforts to secure its interests amid changing global alignments and regional dynamics.",
+            "location": "Saudi Arabia",
+            "category": "World News",
+            "info": "- Saudi Arabia pushes for US defense pact as 2024 presidential election looms\n[FOX News](https://www.foxnews.com/world/saudi-arabia-pushes-us-defense-pact-2024-presidential-election-looms)"
         },
         {
-            "title": "Powell deems US fiscal path unsustainable",
-            "summary": "Federal Reserve Chair Jerome Powell highlights the United States' unsustainable fiscal trajectory, signaling potential long-term economic challenges. His commentary suggests a need for substantial fiscal policy adjustments to ensure future economic stability and growth.",
-            "info": "- [Powell: ‘The US is on an unsustainable fiscal path’](https://news.yahoo.com/powell-us-unsustainable-fiscal-path-002419665.html)"
+            "title": "Grammy Awards 2024: Spotlight on Taylor Swift and Tracy Chapman",
+            "summary": "The 2024 Grammy Awards were highlighted by Taylor Swift's announcement of a new album and a standing ovation for Tracy Chapman and Luke Combs' duet of 'Fast Car.' These moments capture the event's blend of celebratory announcements and memorable performances, showcasing the diverse talents within the music industry.",
+            "location": "Global",
+            "category": "Entertainment & Culture",
+            "info": "- Grammy awards: Taylor Swift announces new album after winning best pop vocal album\n[FOX News](https://www.foxnews.com/entertainment/grammy-awards-taylor-swift-announces-new-album-after-winning-best-pop-vocal-album)\n- Tracy Chapman, Luke Combs’ Grammys performance of ‘Fast Car’ gets standing ovation\n[FOX News](https://www.foxnews.com/entertainment/tracy-chapman-luke-combs-grammys-performance-of-fast-car-gets-standing-ovation)"
         }
     ]
 }
