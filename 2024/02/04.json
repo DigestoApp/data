@@ -1,54 +1,64 @@
 {
     "stories": [
-          {
-            "title": "Federal Reserve plans to cut interest rates",
-            "summary": "Federal Reserve Chair Jerome Powell announced the Fed's intention to cut interest rates three times this year to maintain a healthy economy amidst slowing inflation. This strategic move was revealed during a televised interview, with the first rate cut potentially happening as soon as May. This decision marks a significant policy direction aimed at reinforcing economic stability and confidence. Powell emphasized the decision's timing would be guided by gaining additional confidence in the inflation trajectory. This action is anticipated keenly by markets and could have broad implications for economic policy and consumer borrowing costs.",
-            "info": "- Powell: Federal Reserve on track to cut rates this year with inflation slowing and economy healthy \n  [Source](https://abcnews.go.com/US/wireStory/powell-federal-reserve-track-cut-rates-year-inflation-106939082)\n- Powell Says Fed Has New Focus: When to Cut Rates \n  [Source](https://www.wsj.com/articles/powell-says-fed-has-new-focus-when-to-cut-rates-dbc3f6af)"
-          },
-          {
-            "title": "Senators work on border policy and international aid package",
-            "summary": "In a significant legislative effort, U.S. Senators have introduced a bill aimed at tightening border policies while also providing critical wartime aid to Ukraine, Israel, and other allies. This highly anticipated legislative package emerged from intense negotiations and seeks to address the twin challenges of border security and international support. The proposal highlights the complex interplay between domestic policy objectives and global diplomatic responsibilities. It faces a challenging path to enactment but underscores a rare bipartisan attempt at comprehensive policy-making. The outcome of this legislative effort could have far-reaching implications for U.S. border control measures and the country's role in international conflicts.",
-            "info": "- Senators race to release package of border policies and aid for Ukraine and Israel \n  [Source](https://abcnews.go.com/US/wireStory/senators-race-release-package-border-policies-aid-ukraine-106934665)\n- Senators Release Border Deal to Unlock Ukraine Aid, but Fate Remains Uncertain \n  [Source](https://www.nytimes.com/2024/02/04/us/politics/senate-border-deal-immigration-ukraine.html)"
-          },
-          {
-            "title": "Atmospheric river events cause havoc in California",
-            "summary": "California has been battered by two consecutive atmospheric river events, leading to widespread flooding, power outages, and catastrophic infrastructure damage. These intense weather patterns have not only disrupted daily life but also raised significant concerns over climate resilience and emergency preparedness. The state now faces the dual challenge of managing ongoing impacts while bracing for possible further adversities, including hurricane-force winds and mudslides. The response to these events will test the state's capacity to adapt to increasing weather-related hazards and mitigate risks to communities. This ongoing natural disaster underscores the urgency of addressing climate change and enhancing infrastructure resilience.",
-            "info": "- Second atmospheric river in days blows into California, knocking out power and flooding roads \n  [Source](https://abcnews.go.com/US/wireStory/powerful-storm-days-blows-california-sparking-warnings-hurricane-106933246)"
-          },
-          {
-            "title": "GOP governors maintain pressure on Biden over border crossings",
-            "summary": "Texas Governor Greg Abbott, alongside other GOP leaders, has intensified efforts to spotlight and curb illegal border crossings into the United States. These actions aim to maintain pressure on President Biden's administration, seeking more stringent border control measures. The political maneuvering around border security highlights the ongoing contentious debate over immigration policy in the U.S. This strategic focus by GOP governors underscores a broader political agenda aimed at shaping national discourse on immigration ahead of upcoming elections. The developments at the Texas border reflect deep divisions over how best to manage and secure the U.S.-Mexico boundary.",
-            "info": "- GOP governors back at Texas border to keep pressure on Biden over migrant crossings \n  [Source](https://abcnews.go.com/US/wireStory/gop-governors-back-texas-border-pressure-biden-migrant-106936300)"
-          },
-          {
-            "title": "Russian oil sneaks into the UK, evading sanctions",
-            "summary": "Despite strict sanctions intended to curb Russia's economic capabilities amidst geopolitical tensions, Russian oil continues to find its way into the UK. This illicit flow is facilitated through a loophole involving the refining of Russian oil in third countries, subsequently entering the UK as jet fuel and diesel. This situation underscores the complexities and challenges of enforcing international sanctions effectively. It also highlights the globalized nature of energy supply chains, which can undermine unilateral or multilateral sanctions. The persistence of Russian oil in the UK market exemplifies the need for more stringent measures and international cooperation to ensure the efficacy of sanctions.",
-            "info": "- Russian oil getting into UK via refinery loophole, reports claim \n  [Source](https://www.bbc.co.uk/news/business-68018660?at_medium=RSS&at_campaign=KARANGA)"
-          },
-          {
-            "title": "Grammys 2024 celebrate music industry's finest",
-            "summary": "The 66th annual Grammy Awards ceremoniously highlighted the achievements and talents within the music industry, featuring well-known artists like Miley Cyrus, Dua Lipa, and Billie Eilish. These awards not only recognize artistic excellence but also set the tone for contemporary music trends and influences. The event, held in Los Angeles, was a vibrant showcase of fashion, performance, and artistic diversity, reflecting the dynamic nature of the music world. The Grammys continue to serve as a pivotal platform for celebrating and promoting musical talents across various genres. This year's ceremony offered a glimpse into the evolving landscape of music, marking significant milestones for several artists.",
-            "info": "- Grammys 2024 Red Carpet: Miley Cyrus, Dua Lipa, Billie Eilish and More Looks \n  [Source](https://www.nytimes.com/2024/02/04/style/grammys-red-carpet-photos.html)\n- 2024 Grammys Winners: Updating List \n  [Source](https://www.nytimes.com/2024/02/04/arts/music/grammys-winners-list.html)"
-          },
-          {
-            "title": "New challenge for Kenya's lions: Ant invasion",
-            "summary": "In Kenya, a surprising ecological challenge has emerged as big-headed ants have begun to impact the local wildlife, including lions. This 'ecological chain reaction' threatens not only the balance of the local ecosystem but also the survival of iconic species. The invasive ants demonstrate the unpredictable nature of environmental changes and their potential to disrupt established ecological hierarchies. This phenomenon adds a unique chapter to conservation efforts in the area, emphasizing the interconnectedness of species and the complexity of their survival strategies. The situation in Kenya serves as a reminder of the delicate balance within ecosystems and the unforeseen challenges that conservationists must navigate.",
-            "info": "- In Kenya, the king of the jungle faces a new challenge — ants \n  [Source](https://www.washingtonpost.com)"
-          },
-          {
-            "title": "Marijuana licensing in New York goes uncontested",
-            "summary": "New York's marijuana licensing program has withstood legal scrutiny, as a judge dismissed a challenge concerning the fairness of its application process towards out-of-state applicants. This decision clears a significant hurdle for the state's burgeoning legal cannabis market, ensuring that the regulatory framework remains intact. This ruling is crucial for maintaining momentum in the development of New York's legal marijuana industry, providing certainty for businesses and investors. It underscores the importance of state-level regulatory approaches in shaping the emerging cannabis economy. The outcome further solidifies New York's position in the growing national landscape of legal marijuana markets.",
-            "info": "- Judge rejects a claim that New York's marijuana licensing cheats out-of-state applicants \n  [Source](https://abcnews.go.com/US/wireStory/judge-rejects-claim-new-yorks-marijuana-licensing-cheats-106938507)"
-          },
-          {
-            "title": "Florida man arrested at plane crash scene",
-            "summary": "A Florida man was arrested for breaching a crime scene at a fatal plane crash, falsely claiming to be part of the medical staff. His actions not only constituted a legal violation but also posed potential risks to the integrity of the crash investigation. The incident highlights concerns around public interference at accident scenes and the challenges authorities face in securing such areas. This arrest emphasizes the importance of maintaining orderly operations at emergency sites and ensuring that only authorized personnel have access. It serves as a cautionary tale about the consequences of disrupting critical response activities at crash locations.",
-            "info": "- Florida man arrested after crossing crime scene tape at plane crash site, claimed to be medical staff \n  [Source](https://www.foxnews.com/us/florida-man-arrested-crossing-crime-scene-tape-plane-crash-site-claimed-medical-staff)"
-          },
-          {
-            "title": "Controversy over Supreme Court remarks on ABC",
-            "summary": "Senator JD Vance's commentary on the legitimacy of the Supreme Court's rulings sparked a heated exchange on ABC News, leading to the abrupt end of the interview by host George Stephanopoulos. This incident underscores the polarized views on the judiciary's role and highlights the tension between political figures and media representatives. The clash between Vance and Stephanopoulos reflects broader societal debates over the Supreme Court's influence and its decisions. This controversy sheds light on the challenges facing media outlets in navigating interviews with political figures holding contentious views. The episode serves as a case study in the complexities of political discourse and the media's role in facilitating public debate.",
-            "info": "- ABC host abruptly ends interview with JD Vance over Supreme Court remarks: 'No, no George' \n  [Source](https://www.foxnews.com/media/abc-host-abruptly-ends-interview-jd-vance-supreme-court-remarks-no-no-george)"
-          }
-        ]
+        {
+            "title": "Chile battles catastrophic wildfires",
+            "summary": "Chile is grappling with devastating wildfires, leading to a tragic loss of at least 112 lives as per the latest reports, causing President Gabriel Boric to declare a state of emergency. High temperatures and a long-standing drought have exacerbated the blazes, highlighting the severe impact of climate change on the country. Despite efforts, the fast-moving fires swept through central Chile's coastal hills, leading to major destruction and leaving hundreds missing. These events mark some of the deadliest wildfires the country has faced, underscoring the urgent need for comprehensive firefighting and disaster management strategies.",
+            "info": "- [Deadly wildfires kill at least 112 in Chile](https://www.washingtonpost.com/world/2024/02/03/chile-wildfires-valparaiso-arson-emergency/)\n- [Forest Fire on Chile’s Coast Kills At Least 64 and Leaves Hundreds Missing](https://www.nytimes.com/2024/02/04/world/americas/chile-forest-fires.html)\n- [Incendios forestales en Chile causan 99 muertos y desaparecidos](https://www.nytimes.com/es/2024/02/04/espanol/chile-incendio.html)"
+        },
+        {
+            "title": "Texas border security escalates",
+            "summary": "Texas Governor Greg Abbott, alongside Republican governors, announced an expansion of efforts to enforce immigration laws, aiming to curb illegal crossings on the U.S.-Mexico border. This move signifies an escalation in the state's immigration enforcement, positioning it at the center of a legal confrontation with the federal government. In response, a bipartisan measure, which also includes aid for Israel and Ukraine and proposes measures to cut illegal immigration, was released after months of negotiations, although its enactment remains uncertain.",
+            "info": "- [GOP governors back at Texas border to keep pressure on Biden over migrant crossings](https://abcnews.go.com/US/wireStory/gop-governors-back-texas-border-pressure-biden-migrant-106936300)\n- [Border Deal to Cut Illegal Immigration Is Released After Months of Talks](https://www.wsj.com/articles/border-deal-to-cut-illegal-immigration-is-released-after-months-of-talks-26a66211)\n- [Texas Will Expand Effort to Control Land Along Mexican Border, Abbott Says](https://www.nytimes.com/2024/02/04/us/texas-border-abbott-governors.html)\n- [The Texas Border War and the Battle Within the Supreme Court](https://www.nytimes.com/2024/02/04/opinion/texas-border-supreme-court-immigration.html)"
+        },
+        {
+            "title": "Federal Reserve's rate cuts anticipation",
+            "summary": "Jerome Powell, the Federal Reserve Chair, announced the Fed's plans to reduce interest rates three times this year, citing slowing inflation and a healthy economy. This strategy aims to provide economic stability, as officials seek more 'good' data before proceeding with rate cuts. Powell emphasized the importance of gaining confidence on inflation, marking a significant focus shift for the Fed.",
+            "info": "- [Powell: Federal Reserve on track to cut rates this year with inflation slowing and economy healthy](https://abcnews.go.com/US/wireStory/powell-federal-reserve-track-cut-rates-year-inflation-106939082)\n- [Powell Says Fed Has New Focus: When to Cut Rates](https://www.wsj.com/articles/powell-says-fed-has-new-focus-when-to-cut-rates-dbc3f6af)\n- [Fed Chair Powell Says Officials Need More ‘Good’ Data Before Cutting Rates](https://www.nytimes.com/2024/02/04/business/economy/jerome-powell-rates-federal-reserve.html)"
+        },
+        {
+            "title": "Grammys 2024 highlights",
+            "summary": "The 2024 Grammy Awards saw Taylor Swift announcing a new album after winning the best pop vocal album. Additionally, a duet performance of ‘Fast Car’ by Tracy Chapman and Luke Combs received a standing ovation, marking a notable moment of the night. Swift's response to Grammys host Trevor Noah's joke highlighted her significant presence at the event.",
+            "info": "- [Grammy awards: Taylor Swift announces new album after winning best pop vocal album](https://www.foxnews.com/entertainment/grammy-awards-taylor-swift-announces-new-album-after-winning-best-pop-vocal-album)\n- [Tracy Chapman, Luke Combs’ Grammys performance of ‘Fast Car’ gets standing ovation](https://www.foxnews.com/entertainment/tracy-chapman-luke-combs-grammys-performance-of-fast-car-gets-standing-ovation)\n- [Taylor Swift impressed by Grammys joke about her camera time during NFL games](https://www.foxnews.com/entertainment/taylor-swift-impressed-by-grammys-joke-about-her-camera-time-during-nfl-games)"
+        },
+        {
+            "title": "Iran warns US over possible attacks on cargo ships",
+            "summary": "Tensions in the Middle East escalate as Iran issues a warning to the United States regarding possible actions against cargo ships in the region, suspected of operating as spy vessels. This development signifies increasing geopolitical risks that could affect maritime security and international relations.",
+            "info": "- [Iran issues warning to US about possible attacks on 2 cargo ships suspected of spy activities](https://www.foxnews.com/world/iran-issues-warning-u-s-possible-attacks-cargo-ships-suspected-spy-activities)"
+        },
+        {
+            "title": "Saudi Arabia seeks US defense pact",
+            "summary": "With the 2024 presidential election on the horizon, Saudi Arabia is pushing to finalize a defense pact with the United States. The kingdom appears willing to ease its stance on demanding Palestinian statehood as part of the negotiations, potentially altering the dynamics of Middle Eastern geopolitics.",
+            "info": "- [Saudi Arabia pushes for US defense pact as 2024 presidential election looms](https://www.foxnews.com/world/saudi-arabia-pushes-us-defense-pact-2024-presidential-election-looms)"
+        },
+        {
+            "title": "MetLife Stadium to host 2026 World Cup Final",
+            "summary": "FIFA has selected MetLife Stadium in New Jersey as the venue for the 2026 World Cup Final. This decision underlines the significance of the United States in the global soccer community and sets the stage for what promises to be an exciting tournament.",
+            "info": "- [MetLife Stadium chosen to host 2026 World Cup Final](https://www.foxnews.com/sports/metlife-stadium-chosen-host-2026-world-cup-final)"
+        },
+        {
+            "title": "U.S. strikes Houthi missile sites",
+            "summary": "The U.S. military executed targeted strikes on Houthi missile facilities, responding to the Iranian-backed group's repeated attempts to menace maritime security in the Red Sea. This action represents an ongoing conflict between Houthi rebels and U.S. interests, highlighting the broader Middle East geopolitical struggle.",
+            "info": "- [U.S. struck more Houthi missile sites on Sunday, Centcom says](https://www.washingtonpost.com)\n- [US forces launch self-defense strike on Houthis, accuse group of presenting 'an imminent threat' in Red Sea](https://www.foxnews.com/world/us-forces-launch-self-defense-strike-houthis-accuse-group-presenting-imminent-threat-red-sea)"
+        },
+        {
+            "title": "El Salvador's leader poised for reelection",
+            "summary": "El Salvador's President Nayib Bukele, dubbed the 'World's Coolest Dictator', is almost certain to secure a second five-year term. His leadership style has garnered both domestic and international attention, highlighting a unique political trajectory within the Central American nation.",
+            "info": "- [El Salvador Celebrates Likely Reelection Of ‘World’s Coolest Dictator’](https://www.huffpost.com/entry/el-salvador-elections-nayib-bukele_n_65c0535de4b05c8779f9fad2)"
+        },
+        {
+            "title": "Florida man disrupts crime scene investigation",
+            "summary": "A Florida man was arrested after he breached a police perimeter at a plane crash site, falsely claiming to be a part of the medical staff. This episode underscores the challenges law enforcement face in securing crime scenes and highlights the potential dangers of unauthorized individuals interfering with emergency operations.",
+            "info": "- [Florida man arrested after crossing crime scene tape at plane crash site, claimed to be medical staff](https://www.foxnews.com/us/florida-man-arrested-crossing-crime-scene-tape-plane-crash-site-claimed-medical-staff)\n- [Florida man arrested after crossing crime scene tape at plane crash site, claimed to be medical staff](https://news.yahoo.com/florida-man-arrested-crossing-crime-000841568.html)"
+        },
+        {
+            "title": "Australia condemns China's sentencing of writer",
+            "summary": "Australia expressed deep concerns over China's decision to issue a suspended death sentence to Chinese Australian writer Yang Hengjun. This development adds tension to the bilateral relations between Australia and China, as human rights considerations come to the forefront.",
+            "info": "- [Australia says it is \"appalled\" at China’s suspended death sentence for Chinese Australian writer Yang Hengjun](https://abcnews.go.com/US/wireStory/australia-appalled-chinas-suspended-death-sentence-chinese-australian-106945326)"
+        },
+        {
+            "title": "Powell deems US fiscal path unsustainable",
+            "summary": "Federal Reserve Chair Jerome Powell highlights the United States' unsustainable fiscal trajectory, signaling potential long-term economic challenges. His commentary suggests a need for substantial fiscal policy adjustments to ensure future economic stability and growth.",
+            "info": "- [Powell: ‘The US is on an unsustainable fiscal path’](https://news.yahoo.com/powell-us-unsustainable-fiscal-path-002419665.html)"
+        }
+    ]
 }
