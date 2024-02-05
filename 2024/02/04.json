@@ -1,53 +1,88 @@
 {
     "stories": [
         {
-            "title": "Wildfires in Chile Kill Over 100, Cause Major Destruction",
-            "summary": "Deadly wildfires in Chile have led to the death of at least 112 individuals and left hundreds missing. President Gabriel Boric declared a state of emergency due to the blazes exacerbated by high temperatures and droughts. The fires sped through central Chile's coastal hills, causing significant destruction and prompting warnings from officials about a devastating impact on life and property.",
-            "location": "Chile",
-            "category": "Environment",
-            "info": "- [Deadly wildfires kill at least 112 in Chile](https://www.washingtonpost.com/world/2024/02/03/chile-wildfires-valparaiso-arson-emergency/) \n- [Forest Fire on Chile’s Coast Kills At Least 64 and Leaves Hundreds Missing](https://www.nytimes.com/2024/02/04/world/americas/chile-forest-fires.html) \n- [Incendios forestales en Chile causan 112 muertos y desaparecidos](https://www.nytimes.com/es/2024/02/04/espanol/chile-incendio.html)"
+            "title": "New York Holds Firm on Marijuana Licensing",
+            "summary": "A judge in New York has dismissed a legal challenge against the state's marijuana licensing program, affirming New York's approach to regulating legal marijuana sales and maintaining the structure intended to privilege local applicants over those from out of state. This decision reinforces the state's commitment to a regulated marijuana market, potentially setting a legal precedent for how states can manage and prioritize local stakeholders in the burgeoning legal cannabis industry.",
+            "location": "New York",
+            "category": "Social Issues",
+            "info": "- [Judge rejects a claim that New York's marijuana licensing cheats out-of-state applicants](https://abcnews.go.com/US/wireStory/judge-rejects-claim-new-yorks-marijuana-licensing-cheats-106938507)"
         },
         {
-            "title": "U.S. and Allies Ramp Up Military Activities Against Houthis",
-            "summary": "The U.S. Central Command (CENTCOM) conducted a self-defense strike on Houthi forces, accusing them of being an imminent threat in the Red Sea. This action is part of a surge in military activity in the Middle East, with additional strikes targeting missile sites. The Pentagon's efforts seem aimed at locations linked to Iranian-backed militants who have posed repeated threats to vessels in the strategic waters.",
-            "location": "Middle East",
-            "category": "World News",
-            "info": "- [US forces launch self-defense strike on Houthis, accuse group of presenting 'an imminent threat' in Red Sea](https://www.foxnews.com/world/us-forces-launch-self-defense-strike-houthis-accuse-group-presenting-imminent-threat-red-sea) \n- [U.S. struck more Houthi missile sites on Sunday, Centcom says](https://www.washingtonpost.com) \n- [Middle East conflict live updates: Houthis promise ‘escalation’ after U.S., British strikes in Yemen](https://www.washingtonpost.com/world/2024/02/04/israel-hamas-war-news-gaza-palestine/)"
-        },
-        {
-            "title": "Senate Package Aims to Aid Ukraine, Secure U.S. Border",
-            "summary": "Senators unveiled a $118 billion compromise linking wartime aid for Ukraine with new border laws targeting record immigration to the U.S. from Mexico. The bipartisan effort, wrapping months of negotiation, seeks to address illegal immigration while also bolstering support for international conflicts, highlighting the complex interconnections between domestic policy and foreign aid.",
-            "location": "United States",
-            "category": "Politics",
-            "info": "- [What's in the bipartisan Senate package to aid Ukraine, secure U.S. border](https://abcnews.go.com/US/wireStory/bipartisan-senate-package-aid-ukraine-secure-us-border-106946788) \n- [Senators Release Border Deal to Unlock Ukraine Aid, but Fate Remains Uncertain](https://www.nytimes.com/2024/02/04/us/politics/senate-border-deal-immigration-ukraine.html) \n- [Border Deal to Cut Illegal Immigration Is Released After Months of Talks](https://www.wsj.com/articles/border-deal-to-cut-illegal-immigration-is-released-after-months-of-talks-26a66211)"
-        },
-        {
-            "title": "Federal Reserve Plans to Cut Rates Amid Economic Shifts",
-            "summary": "Federal Reserve Chair Jerome Powell revealed plans for the Fed to cut interest rates three times this year, citing a desire to gain confidence against inflation. This announcement follows a period of economic assessments reflecting a potential shift in strategy to encourage growth. Powell indicates that the central bank is closely watching the economy's health as it contemplates these crucial adjustments.",
-            "location": "United States",
-            "category": "Finance & Economy",
-            "info": "- [Powell: Federal Reserve on track to cut rates this year with inflation slowing and economy healthy](https://abcnews.go.com/US/wireStory/powell-federal-reserve-track-cut-rates-year-inflation-106939082) \n- [Powell Says Fed Has New Focus: When to Cut Rates](https://www.wsj.com/articles/powell-says-fed-has-new-focus-when-to-cut-rates-dbc3f6af) \n- [Fed Chair Powell Says Officials Need More ‘Good’ Data Before Cutting Rates](https://www.nytimes.com/2024/02/04/business/economy/jerome-powell-rates-federal-reserve.html)"
-        },
-        {
-            "title": "Biden and Trump highlight stark political divides in U.S.",
-            "summary": "President Biden warned of a 'nightmare' future if Trump should win again, emphasizing the polarized political landscape in the United States. Meanwhile, Trump pushes immigration conspiracy theories, signaling the intense divisions and contrasting perspectives dominating the nation's political discourse as both parties gear up for the next election cycle.",
-            "location": "United States",
-            "category": "Politics",
-            "info": "- [Biden warns of a 'nightmare' future for the country if Trump should win again, and lists reasons why](https://abcnews.go.com/US/wireStory/biden-sets-sights-las-vegas-days-nevadas-primary-106931464) \n- [Trump Pushes Immigration Conspiracy Theories and Mass Deportations](https://www.nytimes.com/2024/02/04/us/politics/trump-fox-interview.html)"
-        },
-        {
-            "title": "Australia Upset Over China's Treatment of Australian Writer",
-            "summary": "Australia expressed dismay at China's decision to issue a suspended death sentence to Chinese Australian writer Yang Hengjun. The move has heightened tensions between the two countries, as Australia calls for better treatment of its citizens abroad amidst broader geopolitical and human rights concerns.",
-            "location": "Global",
-            "category": "World News",
-            "info": "- [Australia says it is \"appalled\" at China’s suspended death sentence for Chinese Australian writer Yang Hengjun](https://abcnews.go.com/US/wireStory/australia-appalled-chinas-suspended-death-sentence-chinese-australian-106945326) \n- [China Gives Australian Writer Suspended Death Sentence](https://www.wsj.com/articles/china-gives-australian-writer-suspended-death-sentence-95bfaaa1)"
-        },
-        {
-            "title": "2024 Grammys Spotlight Swift, Monét, and More",
-            "summary": "The 2024 Grammy Awards saw notable moments from artists such as Victoria Monét, who won Best New Artist, and Taylor Swift, who announced a new album after winning Best Pop Vocal Album. The event was marked by standout performances, including a duet between Tracy Chapman and Luke Combs, and humor aimed at Swift's extensive camera time during NFL games.",
+            "title": "Victoria Monét Triumphs at the Grammys",
+            "summary": "Victoria Monét claimed the prestigious Best New Artist award at the Grammy Awards, marking a significant milestone in her career. This achievement highlights her rising prominence in the music industry and underscores the Grammys' role in recognizing emerging talents.",
             "location": "Global",
             "category": "Entertainment & Culture",
-            "info": "- [Victoria Monét wins best new artist Grammy Award](https://abcnews.go.com/US/wireStory/victoria-mont-wins-best-new-artist-grammy-award-106946442) \n- [Grammy awards: Taylor Swift announces new album after winning best pop vocal album](https://www.foxnews.com/entertainment/grammy-awards-taylor-swift-announces-new-album-after-winning-best-pop-vocal-album) \n- [Tracy Chapman, Luke Combs’ Grammys performance of ‘Fast Car’ gets standing ovation](https://www.foxnews.com/entertainment/tracy-chapman-luke-combs-grammys-performance-of-fast-car-gets-standing-ovation) \n- [Taylor Swift impressed by Grammys joke about her camera time during NFL games](https://www.foxnews.com/entertainment/taylor-swift-impressed-by-grammys-joke-about-her-camera-time-during-nfl-games)"
+            "info": "- [Victoria Monét wins best new artist Grammy Award](https://abcnews.go.com/US/wireStory/victoria-mont-wins-best-new-artist-grammy-award-106946442)"
+        },
+        {
+            "title": "Denver Party Shooting Leaves Two Dead",
+            "summary": "A violent confrontation at a Denver party resulted in two fatalities and several injuries, illustrating the ongoing issue of gun violence in residential settings in the United States. The incident adds to the statistics of shootings in social gatherings, prompting concerns over public safety and gun control policies.",
+            "location": "Denver, Colorado",
+            "category": "Social Issues",
+            "info": "- [2 people dead, 4 injured after police say gunfire erupts during confrontation at Denver party](https://abcnews.go.com/US/wireStory/denver-shooting-injures-6-people-police-106930708)"
+        },
+        {
+            "title": "Bipartisan Senate Package Aids Ukraine, Secures US Border",
+            "summary": "The U.S. Senate unveiled a $118 billion compromise package aimed at supporting Ukraine in its conflict and enhancing border security to address the surge in migration at the U.S.-Mexico border. This carefully negotiated measure reflects an attempt to balance foreign policy objectives with domestic security concerns, highlighting the complexities of addressing global conflicts and immigration issues in tandem.",
+            "location": "United States",
+            "category": "Politics",
+            "info": "- [What's in the bipartisan Senate package to aid Ukraine, secure U.S. border](https://abcnews.go.com/US/wireStory/bipartisan-senate-package-aid-ukraine-secure-us-border-106946788)"
+        },
+        {
+            "title": "Federal Reserve Plans Interest Rate Cuts",
+            "summary": "Chair Jerome Powell indicated that the Federal Reserve is poised to reduce interest rates three times this year in response to slowing inflation and a healthy economy. This announcement signals a strategic shift in monetary policy aimed at sustaining economic growth while managing inflationary pressures.",
+            "location": "United States",
+            "category": "Finance & Economy",
+            "info": "- [Powell: Federal Reserve on track to cut rates this year with inflation slowing and economy healthy](https://abcnews.go.com/US/wireStory/powell-federal-reserve-track-cut-rates-year-inflation-106939082)"
+        },
+        {
+            "title": "Australia Condemns China's Sentence for Writer",
+            "summary": "Australia expressed outrage at China's imposition of a suspended death sentence on Chinese Australian writer Yang Hengjun, highlighting tensions between Australia and China over human rights and the treatment of dual citizens. This case underscores the diplomatic strains and the broader geopolitical rivalry between Western nations and China.",
+            "location": "China",
+            "category": "World News",
+            "info": "- [Australia says it is \"appalled\" at China’s suspended death sentence for Chinese Australian writer Yang Hengjun](https://abcnews.go.com/US/wireStory/australia-appalled-chinas-suspended-death-sentence-chinese-australian-106945326)"
+        },
+        {
+            "title": "GOP Governors Pressure Biden on Border",
+            "summary": "GOP governors have intensified their efforts to pressure President Joe Biden over migrant crossings at the U.S.-Mexico border. Led by Texas Gov. Greg Abbott, this renewed focus on border security demonstrates the ongoing political and ideological divides surrounding immigration policy in the United States.",
+            "location": "Texas",
+            "category": "Politics",
+            "info": "- [GOP governors back at Texas border to keep pressure on Biden over migrant crossings](https://abcnews.go.com/US/wireStory/gop-governors-back-texas-border-pressure-biden-migrant-106936300)"
+        },
+        {
+            "title": "Biden Warns Against Trump's Reelection",
+            "summary": "President Joe Biden has publicly warned that the reelection of Donald Trump would lead to detrimental outcomes for the United States, citing a list of potential negative impacts. Biden's remarks reflect the highly polarized political climate and the significant stakes involved in the upcoming presidential election.",
+            "location": "United States",
+            "category": "Politics",
+            "info": "- [Biden warns of a 'nightmare' future for the country if Trump should win again, and lists reasons why](https://abcnews.go.com/US/wireStory/biden-sets-sights-las-vegas-days-nevadas-primary-106931464)"
+        },
+        {
+            "title": "Increased Security in Dearborn Amid Controversy",
+            "summary": "Following an opinion piece labeling Dearborn, Michigan, as \"America's jihad capital,\" the city has increased its security measures. This response to the controversial characterization highlights the tensions surrounding discussions of terrorism, immigration, and Islamophobia in the United States.",
+            "location": "Dearborn, Michigan",
+            "category": "Social Issues",
+            "info": "- [Michigan city ramps up security after op-ed calls it 'America's jihad capital'](https://abcnews.go.com/US/wireStory/michigan-city-ramps-security-after-op-ed-calls-106942179)"
+        },
+        {
+            "title": "Indonesia's Economic Growth Surprises",
+            "summary": "Despite a slowdown in 2023, Indonesia's economy experienced a surprising uptick in growth during the final quarter. As Southeast Asia’s largest economy, this performance exceeded expectations and signals potential resilience amidst global economic uncertainties.",
+            "location": "Indonesia",
+            "category": "Finance & Economy",
+            "info": "- [Indonesia's Economy Slowed in 2023 But Picked Up in Final Quarter](https://www.wsj.com/articles/indonesias-economy-slowed-in-2023-but-picked-up-in-final-quarter-8f85ab35)"
+        },
+        {
+            "title": "Boeing Battles New 737 MAX Fuselage Issues",
+            "summary": "Boeing disclosed it must rectify misdrilled holes in about 50 new 737 jets, a problem likely to delay jet deliveries. This latest issue with the 737 MAX jets adds to the ongoing challenges faced by Boeing in ensuring the safety and reliability of its aircraft, impacting its reputation and operations.",
+            "location": "Global",
+            "category": "Science & Technology",
+            "info": "- [Boeing Finds New Problem With 737 MAX Fuselages](https://www.wsj.com/articles/boeing-finds-new-problem-with-737-max-fuselages-8ee225b9)"
+        },
+        {
+            "title": "Border Deal Targets Illegal Immigration, Aids Allies",
+            "summary": "A bipartisan agreement in the U.S. aims to reduce illegal immigration while providing aid to Israel and Ukraine. Despite opposition from top House Republicans, this measure demonstrates the complexities of balancing domestic policy objectives with international support commitments.",
+            "location": "United States",
+            "category": "Politics",
+            "info": "- [Border Deal to Cut Illegal Immigration Is Released After Months of Talks](https://www.wsj.com/articles/border-deal-to-cut-illegal-immigration-is-released-after-months-of-talks-26a66211)"
         }
     ]
 }
