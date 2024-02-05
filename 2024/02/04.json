@@ -1,88 +1,53 @@
 {
     "stories": [
         {
-            "title": "NY Judge Upholds State's Marijuana Licensing Program",
-            "summary": "A New York state judge has dismissed a lawsuit challenging the state's marijuana licensing program, which was accused of favoring in-state applicants over those from out of state. The decision supports New York's approach to legalizing and regulating marijuana sales within its borders. This outcome maintains the status quo of the state's efforts to establish a regulated market for marijuana, aiming to ensure local businesses benefit.",
-            "location": "New York",
-            "category": "Social Issues",
-            "info": "- Judge rejects a claim that New York's marijuana licensing cheats out-of-state applicants\n[ABC News](https://abcnews.go.com/US/wireStory/judge-rejects-claim-new-yorks-marijuana-licensing-cheats-106938507)"
+            "title": "Wildfires in Chile Kill Over 100, Cause Major Destruction",
+            "summary": "Deadly wildfires in Chile have led to the death of at least 112 individuals and left hundreds missing. President Gabriel Boric declared a state of emergency due to the blazes exacerbated by high temperatures and droughts. The fires sped through central Chile's coastal hills, causing significant destruction and prompting warnings from officials about a devastating impact on life and property.",
+            "location": "Chile",
+            "category": "Environment",
+            "info": "- [Deadly wildfires kill at least 112 in Chile](https://www.washingtonpost.com/world/2024/02/03/chile-wildfires-valparaiso-arson-emergency/) \n- [Forest Fire on Chile’s Coast Kills At Least 64 and Leaves Hundreds Missing](https://www.nytimes.com/2024/02/04/world/americas/chile-forest-fires.html) \n- [Incendios forestales en Chile causan 112 muertos y desaparecidos](https://www.nytimes.com/es/2024/02/04/espanol/chile-incendio.html)"
         },
         {
-            "title": "Shooting at Denver Party Leaves Two Dead, Four Injured",
-            "summary": "A tragic event unfolded in Denver when a confrontation at a late-night party escalated into gunfire, resulting in two fatalities and four injuries. This incident has once again sparked conversations around gun violence and safety in social gatherings within residential areas. The police are investigating the situation, but the incident highlights the continuing challenges of managing violence at public and private events.",
-            "location": "Denver",
-            "category": "Social Issues",
-            "info": "- 2 people dead, 4 injured after police say gunfire erupts during confrontation at Denver party\n[ABC News](https://abcnews.go.com/US/wireStory/denver-shooting-injures-6-people-police-106930708)"
-        },
-        {
-            "title": "Federal Reserve Plans for Interest Rate Cuts",
-            "summary": "Federal Reserve Chair Jerome Powell has announced the central bank's intention to cut interest rates three times throughout the year. This strategic move, anticipated to start as early as May, is seen as a response to slowing inflation and a healthy economy. The adjustments are closely watched by investors and economists, as they influence borrowing costs and can impact both the stock market and the broader economy.",
-            "location": "Global",
-            "category": "Finance & Economy",
-            "info": "- Powell: Federal Reserve on track to cut rates this year with inflation slowing and economy healthy\n[ABC News](https://abcnews.go.com/US/wireStory/powell-federal-reserve-track-cut-rates-year-inflation-106939082)"
-        },
-        {
-            "title": "Australia Condemns China's Treatment of Australian Writer",
-            "summary": "Australia has expressed deep concern over China's decision to issue a suspended death sentence to Chinese Australian writer Yang Hengjun. Arrested in 2019 on national security charges, Yang's treatment and sentencing have strained relations between Australia and China, highlighting issues of human rights and diplomatic tensions. Australia's government is advocating for Yang's well-being and challenging the fairness of his trial and sentencing.",
-            "location": "Global",
+            "title": "U.S. and Allies Ramp Up Military Activities Against Houthis",
+            "summary": "The U.S. Central Command (CENTCOM) conducted a self-defense strike on Houthi forces, accusing them of being an imminent threat in the Red Sea. This action is part of a surge in military activity in the Middle East, with additional strikes targeting missile sites. The Pentagon's efforts seem aimed at locations linked to Iranian-backed militants who have posed repeated threats to vessels in the strategic waters.",
+            "location": "Middle East",
             "category": "World News",
-            "info": "- Australia says it is \"appalled\" at China’s suspended death sentence for Chinese Australian writer Yang Hengjun\n[ABC News](https://abcnews.go.com/US/wireStory/australia-appalled-chinas-suspended-death-sentence-chinese-australian-106945326)"
+            "info": "- [US forces launch self-defense strike on Houthis, accuse group of presenting 'an imminent threat' in Red Sea](https://www.foxnews.com/world/us-forces-launch-self-defense-strike-houthis-accuse-group-presenting-imminent-threat-red-sea) \n- [U.S. struck more Houthi missile sites on Sunday, Centcom says](https://www.washingtonpost.com) \n- [Middle East conflict live updates: Houthis promise ‘escalation’ after U.S., British strikes in Yemen](https://www.washingtonpost.com/world/2024/02/04/israel-hamas-war-news-gaza-palestine/)"
         },
         {
-            "title": "GOP Governors Increase Pressure on Biden Over Border",
-            "summary": "Texas Governor Greg Abbott and other GOP governors have made a public stand at the Texas-Mexico border to emphasize their efforts and challenges in controlling illegal crossings. This act is part of a broader political strategy to place immigration and border security at the forefront of national discussions, pressing the Biden administration for more stringent measures and support.",
-            "location": "Texas",
-            "category": "Politics",
-            "info": "- GOP governors back at Texas border to keep pressure on Biden over migrant crossings\n[ABC News](https://abcnews.go.com/US/wireStory/gop-governors-back-texas-border-pressure-biden-migrant-106936300)"
-        },
-        {
-            "title": "Biden Cautions Against Dangers of Trump Re-election",
-            "summary": "In a passionate address, President Joe Biden outlined a series of concerns regarding the potential consequences of a Donald Trump victory in the upcoming presidential election. Biden argued that Trump's re-election could lead the country into a 'nightmare' scenario, emphasizing the importance of continuity in leadership to ensure progress on various domestic and international fronts.",
+            "title": "Senate Package Aims to Aid Ukraine, Secure U.S. Border",
+            "summary": "Senators unveiled a $118 billion compromise linking wartime aid for Ukraine with new border laws targeting record immigration to the U.S. from Mexico. The bipartisan effort, wrapping months of negotiation, seeks to address illegal immigration while also bolstering support for international conflicts, highlighting the complex interconnections between domestic policy and foreign aid.",
             "location": "United States",
             "category": "Politics",
-            "info": "- Biden warns of a 'nightmare' future for the country if Trump should win again, and lists reasons why\n[ABC News](https://abcnews.go.com/US/wireStory/biden-sets-sights-las-vegas-days-nevadas-primary-106931464)"
+            "info": "- [What's in the bipartisan Senate package to aid Ukraine, secure U.S. border](https://abcnews.go.com/US/wireStory/bipartisan-senate-package-aid-ukraine-secure-us-border-106946788) \n- [Senators Release Border Deal to Unlock Ukraine Aid, but Fate Remains Uncertain](https://www.nytimes.com/2024/02/04/us/politics/senate-border-deal-immigration-ukraine.html) \n- [Border Deal to Cut Illegal Immigration Is Released After Months of Talks](https://www.wsj.com/articles/border-deal-to-cut-illegal-immigration-is-released-after-months-of-talks-26a66211)"
         },
         {
-            "title": "Dearborn Increases Security After 'Jihad Capital' Claim",
-            "summary": "Following an opinion piece that labeled Dearborn, Michigan, as 'America's jihad capital,' the city has taken steps to enhance security measures. This response aims to protect residents and dispel any misconceptions about the community, which has faced increased scrutiny due to its significant Arab-American population. The city's actions also highlight the broader issue of how media representation can influence public perception and community safety.",
-            "location": "Michigan",
-            "category": "Social Issues",
-            "info": "- Michigan city ramps up security after op-ed calls it 'America's jihad capital'\n[ABC News](https://abcnews.go.com/US/wireStory/michigan-city-ramps-security-after-op-ed-calls-106942179)"
-        },
-        {
-            "title": "California Battles Severe Weather and Flooding",
-            "summary": "Northern California is grappling with the effects of back-to-back atmospheric rivers, causing widespread flooding, power outages, and significant damage. As the storm moves south, officials warn of hurricane-force winds and the potential for mudslides, highlighting the region's vulnerability to extreme weather events and the challenges of emergency response and infrastructure resilience in the face of climate variability.",
-            "location": "California",
-            "category": "Environment",
-            "info": "- Second atmospheric river in days blows into California, knocking out power and flooding roads\n[ABC News](https://abcnews.go.com/US/wireStory/powerful-storm-days-blows-california-sparking-warnings-hurricane-106933246)"
-        },
-        {
-            "title": "China Boosts Property Sector with 'Whitelist' Financing",
-            "summary": "In an effort to stabilize its flagging real estate market, China is providing loans to thousands of real-estate projects through a new 'whitelist' financing program. This initiative represents Beijing's intensified push to mitigate a deepening liquidity crisis in the property sector, which has significant implications for the country's economic health and global real estate markets.",
-            "location": "China",
+            "title": "Federal Reserve Plans to Cut Rates Amid Economic Shifts",
+            "summary": "Federal Reserve Chair Jerome Powell revealed plans for the Fed to cut interest rates three times this year, citing a desire to gain confidence against inflation. This announcement follows a period of economic assessments reflecting a potential shift in strategy to encourage growth. Powell indicates that the central bank is closely watching the economy's health as it contemplates these crucial adjustments.",
+            "location": "United States",
             "category": "Finance & Economy",
-            "info": "- China Property Projects Set to Receive Funding\n[WSJ](https://www.wsj.com/articles/china-real-estate-projects-set-to-receive-loans-under-whitelist-program-d938b49e)"
+            "info": "- [Powell: Federal Reserve on track to cut rates this year with inflation slowing and economy healthy](https://abcnews.go.com/US/wireStory/powell-federal-reserve-track-cut-rates-year-inflation-106939082) \n- [Powell Says Fed Has New Focus: When to Cut Rates](https://www.wsj.com/articles/powell-says-fed-has-new-focus-when-to-cut-rates-dbc3f6af) \n- [Fed Chair Powell Says Officials Need More ‘Good’ Data Before Cutting Rates](https://www.nytimes.com/2024/02/04/business/economy/jerome-powell-rates-federal-reserve.html)"
         },
         {
-            "title": "Putin's Unchallenged Path to Re-election",
-            "summary": "In the upcoming presidential election in Russia, Vladimir Putin faces no real opposition, with permitted candidates not seriously contending for victory. This situation underscores the controlled nature of Russian politics and the lack of genuine democratic processes, reflecting Putin's tight grip on power and the challenges for political pluralism and opposition in the country.",
-            "location": "Russia",
+            "title": "Biden and Trump highlight stark political divides in U.S.",
+            "summary": "President Biden warned of a 'nightmare' future if Trump should win again, emphasizing the polarized political landscape in the United States. Meanwhile, Trump pushes immigration conspiracy theories, signaling the intense divisions and contrasting perspectives dominating the nation's political discourse as both parties gear up for the next election cycle.",
+            "location": "United States",
             "category": "Politics",
-            "info": "- Putin's Presidential Election Rivals Aren't Even Pretending to Put Up a Fight\n[WSJ](https://www.wsj.com/articles/putins-presidential-election-rivals-arent-even-pretending-to-put-up-a-fight-1b59d53e)"
+            "info": "- [Biden warns of a 'nightmare' future for the country if Trump should win again, and lists reasons why](https://abcnews.go.com/US/wireStory/biden-sets-sights-las-vegas-days-nevadas-primary-106931464) \n- [Trump Pushes Immigration Conspiracy Theories and Mass Deportations](https://www.nytimes.com/2024/02/04/us/politics/trump-fox-interview.html)"
         },
         {
-            "title": "Saudi Arabia Seeks US Defense Pact Ahead of Election",
-            "summary": "As the 2024 US presidential election approaches, Saudi Arabia is reportedly pursuing a defense pact with the United States, indicating a strategic shift in its demands regarding Palestinian statehood. This move reflects the evolving geopolitical landscape and the kingdom's efforts to secure its interests amid changing global alignments and regional dynamics.",
-            "location": "Saudi Arabia",
+            "title": "Australia Upset Over China's Treatment of Australian Writer",
+            "summary": "Australia expressed dismay at China's decision to issue a suspended death sentence to Chinese Australian writer Yang Hengjun. The move has heightened tensions between the two countries, as Australia calls for better treatment of its citizens abroad amidst broader geopolitical and human rights concerns.",
+            "location": "Global",
             "category": "World News",
-            "info": "- Saudi Arabia pushes for US defense pact as 2024 presidential election looms\n[FOX News](https://www.foxnews.com/world/saudi-arabia-pushes-us-defense-pact-2024-presidential-election-looms)"
+            "info": "- [Australia says it is \"appalled\" at China’s suspended death sentence for Chinese Australian writer Yang Hengjun](https://abcnews.go.com/US/wireStory/australia-appalled-chinas-suspended-death-sentence-chinese-australian-106945326) \n- [China Gives Australian Writer Suspended Death Sentence](https://www.wsj.com/articles/china-gives-australian-writer-suspended-death-sentence-95bfaaa1)"
         },
         {
-            "title": "Grammy Awards 2024: Spotlight on Taylor Swift and Tracy Chapman",
-            "summary": "The 2024 Grammy Awards were highlighted by Taylor Swift's announcement of a new album and a standing ovation for Tracy Chapman and Luke Combs' duet of 'Fast Car.' These moments capture the event's blend of celebratory announcements and memorable performances, showcasing the diverse talents within the music industry.",
+            "title": "2024 Grammys Spotlight Swift, Monét, and More",
+            "summary": "The 2024 Grammy Awards saw notable moments from artists such as Victoria Monét, who won Best New Artist, and Taylor Swift, who announced a new album after winning Best Pop Vocal Album. The event was marked by standout performances, including a duet between Tracy Chapman and Luke Combs, and humor aimed at Swift's extensive camera time during NFL games.",
             "location": "Global",
             "category": "Entertainment & Culture",
-            "info": "- Grammy awards: Taylor Swift announces new album after winning best pop vocal album\n[FOX News](https://www.foxnews.com/entertainment/grammy-awards-taylor-swift-announces-new-album-after-winning-best-pop-vocal-album)\n- Tracy Chapman, Luke Combs’ Grammys performance of ‘Fast Car’ gets standing ovation\n[FOX News](https://www.foxnews.com/entertainment/tracy-chapman-luke-combs-grammys-performance-of-fast-car-gets-standing-ovation)"
+            "info": "- [Victoria Monét wins best new artist Grammy Award](https://abcnews.go.com/US/wireStory/victoria-mont-wins-best-new-artist-grammy-award-106946442) \n- [Grammy awards: Taylor Swift announces new album after winning best pop vocal album](https://www.foxnews.com/entertainment/grammy-awards-taylor-swift-announces-new-album-after-winning-best-pop-vocal-album) \n- [Tracy Chapman, Luke Combs’ Grammys performance of ‘Fast Car’ gets standing ovation](https://www.foxnews.com/entertainment/tracy-chapman-luke-combs-grammys-performance-of-fast-car-gets-standing-ovation) \n- [Taylor Swift impressed by Grammys joke about her camera time during NFL games](https://www.foxnews.com/entertainment/taylor-swift-impressed-by-grammys-joke-about-her-camera-time-during-nfl-games)"
         }
     ]
 }
