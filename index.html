@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digesto API Docs</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #000112;
+        }
+        h1, h2 {
+            color: white;
+        }
+        p {
+            color: #ddd;
+        }
+        code {
+            background-color: #333;
+            padding: 2px 6px;
+            border-radius: 4px;
+            margin: 10px 0;
+            color: white;
+        }
+        code.block {
+            white-space: pre-wrap;
+            display: block;
+        }
+        ul, li {
+        	list-style-type: circle;
+            margin: 10px 0;
+            color: #ddd;
+        }
+        span {
+        	color: #f77;
+        }
+    </style>
+</head>
+<body>
+    <h1>Digesto API Documentation</h1>
+    <p>This document provides information on how to use the Digesto API to retrieve data based on specific dates and editions. The API endpoint is structured as follows:</p>
+    <code>https://data.digesto.app/<span>{year}</span>/<span>{month}</span>/<span>{day}</span>/<span>{edition}</span>.json</code>
+    <p>Where:</p>
+    <ul>
+        <li><code>year</code> is a 4-digit year (yyyy).</li>
+        <li><code>month</code> is a 2-digit month (MM).</li>
+        <li><code>day</code> is a 2-digit day (dd).</li>
+        <li><code>edition</code> can be one of the following (times are EST time):
+            <ul>
+                <li><code>morning</code> - Available at 8AM and later.</li>
+                <li><code>afternoon</code> - Available at 2PM and later.</li>
+                <li><code>evening</code> - Available at 7PM and later.</li>
+            </ul>
+        </li>
+    </ul>
+    <h2>API Response Format</h2>
+    <p>The API returns data in a JSON format, structured as follows:</p>
+    <code class="block">{
+  "stories": [{
+    "title": String,
+    "summary": String,
+    "location": String,
+    "category": String,
+    "info": String
+  }]
+}</code>
+    <p>This structure includes:</p>
+    <ul>
+        <li><strong>stories</strong>: An array of story objects, each containing:
+            <ul>
+                <li><strong>title</strong>: The title of the story.</li>
+                <li><strong>summary</strong>: A brief overview of the story.</li>
+                <li><strong>location</strong>: The geographical setting or relevance of the story.</li>
+                <li><strong>category</strong>: The genre or category of the story.</li>
+                <li><strong>info</strong>: Additional reading and citations in Markdown format.</li>
+            </ul>
+        </li>
+    </ul>
+    <h2>Example Requests</h2>
+    <p>To access the morning edition of March 15, 2023:</p>
+    <code>https://data.digesto.app/2023/03/15/morning.json</code>
+    <p>To access the evening edition of July 4, 2023:</p>
+    <code>https://data.digesto.app/2023/07/04/evening.json</code>
+    <p>Please ensure your requests are correctly formatted according to the guidelines above. If you encounter any issues or have further questions, please contact our support team.</p>
+</body>
+</html>
