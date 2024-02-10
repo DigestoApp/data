@@ -1,87 +1,174 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Digesto API Docs</title>
     <style>
+        :root {
+            --background-color: #1e1e1e;
+            --text-color: #c9d1d9;
+            /* More white text */
+            --code-background: #0d1117;
+            --code-text-color: #58a6ff;
+            --border-color: #30363d;
+            --accent-color: #58a6ff;
+            --placeholder-color: #ff7b72;
+            /* Color for placeholders */
+            --symbol-color: #8b949e;
+            /* Color for quotes */
+            --quote-color: #00c41d;
+            /* Color for symbols */
+            --bracket-color: #ff5c5c;
+            /* New color for brackets */
+            --curly-bracket-color: #da75ff;
+            /* New color for curly brackets */
+            --colon-color: #949494;
+            /* New color for colons */
+        }
+
         body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            background-color: #000112;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--background-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 20px;
+            line-height: 1.6;
         }
-        h1, h2 {
-            color: white;
-        }
-        p {
-            color: #ddd;
-        }
-        code {
-            background-color: #333;
-            padding: 2px 6px;
-            border-radius: 4px;
-            margin: 10px 0;
-            color: white;
-        }
-        code.block {
-            white-space: pre-wrap;
+
+        .logo {
             display: block;
+            max-width: 200px;
+            margin: 0 auto 20px;
         }
-        ul, li {
-        	list-style-type: circle;
-            margin: 10px 0;
-            color: #ddd;
+
+        h1,
+        h2,
+        h3 {
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 10px;
         }
-        span {
-        	color: #f77;
+
+        code,
+        pre {
+            background-color: var(--code-background);
+            color: var(--code-text-color);
+            border-radius: 6px;
+            padding: 5px 10px;
+            font-family: 'Courier New', Courier, monospace;
+            overflow-x: auto;
+        }
+
+        .placeholder {
+            color: var(--placeholder-color);
+        }
+
+        .bracket {
+            color: var(--bracket-color);
+        }
+
+        .curly-bracket {
+            color: var(--curly-bracket-color);
+        }
+
+        .quote {
+            color: var(--quote-color);
+        }
+
+        .colon {
+            color: var(--colon-color);
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+
+        .note {
+            background-color: #161b22;
+            padding: 10px;
+            border-left: 4px solid var(--accent-color);
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+
+        footer {
+            text-align: center;
+            margin: 40px 0 20px;
+            color: #8b949e;
+        }
+
+        a {
+            color: var(--accent-color);
+            /* Use the accent color for links */
+            text-decoration: none;
+            /* Removes underline from links */
+            transition: color 0.3s ease;
+            /* Smooth transition for color change */
+        }
+
+        a:hover,
+        a:focus {
+            color: #ff7b72;
+            /* Lighter or different color on hover/focus for visibility */
+            text-decoration: underline;
+            /* Adds underline on hover/focus for emphasis */
         }
     </style>
 </head>
+
 <body>
-    <h1>Digesto API Documentation</h1>
-    <p>This document provides information on how to use the Digesto API to retrieve data based on specific dates and editions. The API endpoint is structured as follows:</p>
-    <code>https://data.digesto.app/<span>{year}</span>/<span>{month}</span>/<span>{day}</span>/<span>{edition}</span>.json</code>
-    <p>Where:</p>
-    <ul>
-        <li><code>year</code> is a 4-digit year (yyyy).</li>
-        <li><code>month</code> is a 2-digit month (MM).</li>
-        <li><code>day</code> is a 2-digit day (dd).</li>
-        <li><code>edition</code> can be one of the following (times are EST time):
-            <ul>
-                <li><code>morning</code> - Available at 8AM and later.</li>
-                <li><code>afternoon</code> - Available at 2PM and later.</li>
-                <li><code>evening</code> - Available at 7PM and later.</li>
-            </ul>
-        </li>
-    </ul>
-    <h2>API Response Format</h2>
-    <p>The API returns data in a JSON format, structured as follows:</p>
-    <code class="block">{
-  "stories": [{
-    "title": String,
-    "summary": String,
-    "location": String,
-    "category": String,
-    "info": String
-  }]
-}</code>
-    <p>This structure includes:</p>
-    <ul>
-        <li><strong>stories</strong>: An array of story objects, each containing:
-            <ul>
-                <li><strong>title</strong>: The title of the story.</li>
-                <li><strong>summary</strong>: A brief overview of the story.</li>
-                <li><strong>location</strong>: The geographical setting or relevance of the story.</li>
-                <li><strong>category</strong>: The genre or category of the story.</li>
-                <li><strong>info</strong>: Additional reading and citations in Markdown format.</li>
-            </ul>
-        </li>
-    </ul>
-    <h2>Example Requests</h2>
-    <p>To access the morning edition of March 15, 2023:</p>
-    <code>https://data.digesto.app/2023/03/15/morning.json</code>
-    <p>To access the evening edition of July 4, 2023:</p>
-    <code>https://data.digesto.app/2023/07/04/evening.json</code>
-    <p>Please ensure your requests are correctly formatted according to the guidelines above. If you encounter any issues or have further questions, please contact our support team.</p>
+    <div class="container">
+        <a href="https://digesto.app"><img src="https://assets.digesto.app/logo/2.svg" alt="Digesto Logo" class="logo"></a>
+        <h1>Digesto API Documentation</h1>
+        <p>This document provides detailed information on how to interact with the Digesto API to retrieve data. The API
+            follows RESTful principles and returns data in JSON format.</p>
+        <h2>Endpoint Structure</h2>
+        <p>The API's endpoint URL structure is as follows:</p>
+        <code>https://data.digesto.app/<span class="placeholder">{year}</span>/<span class="placeholder">{month}</span>/<span class="placeholder">{day}</span>/<span class="placeholder">{edition}</span>.json</code>
+        <ul>
+            <li><span class="placeholder">{year}</span> - 4-digit year (yyyy).</li>
+            <li><span class="placeholder">{month}</span> - 2-digit month (MM).</li>
+            <li><span class="placeholder">{day}</span> - 2-digit day (dd).</li>
+            <li>
+                <span class="placeholder">{edition}</span> - Edition of the day. Possible values include:
+                <ul>
+                    <li><code class="symbol">morning</code> - Available at 8AM EST and later.</li>
+                    <li><code class="symbol">afternoon</code> - Available at 2PM EST and later.</li>
+                    <li><code class="symbol">evening</code> - Available at 7PM EST and later.</li>
+                </ul>
+            </li>
+        </ul>
+        <h2>API Response Format</h2>
+        <pre>
+<span class="curly-bracket">{</span>
+  <span class="quote">"</span>stories<span class="quote">"</span><span class="colon">:</span> <span class="bracket">[</span>
+    <span class="curly-bracket">{</span>
+      <span class="quote">"</span>title<span class="quote">"</span><span class="colon">:</span> <span class="quote">"</span>string<span class="quote">"</span>,
+      <span class="quote">"</span>summary<span class="quote">"</span><span class="colon">:</span> <span class="quote">"</span>string<span class="quote">"</span>,
+      <span class="quote">"</span>location<span class="quote">"</span><span class="colon">:</span> <span class="quote">"</span>string<span class="quote">"</span>,
+      <span class="quote">"</span>category<span class="quote">"</span><span class="colon">:</span> <span class="quote">"</span>string<span class="quote">"</span>,
+      <span class="quote">"</span>info<span class="quote">"</span><span class="colon">:</span> <span class="quote">"</span>string<span class="quote">"</span>
+    <span class="curly-bracket">}</span>
+  <span class="bracket">]</span>
+<span class="curly-bracket">}</span></pre>
+        <h2>Example Usage</h2>
+        <p>Below are example API calls:</p>
+        <div class="api-call">
+            <code>https://data.digesto.app/2023/03/15/morning.json</code>
+        </div>
+        <div class="api-call">
+            <code>https://data.digesto.app/2023/07/04/evening.json</code>
+        </div>
+        <div class="note">
+            Note: Ensure your API requests are correctly formatted as per the guidelines. For support, open an issue on
+            GitHub at <a href="https://github.com/DigestoApp/Data/issues">DigestoApp/Data</a>.
+        </div>
+        <footer>
+            © 2024 Digesto App. All rights reserved.
+        </footer>
+    </div>
 </body>
+
 </html>
