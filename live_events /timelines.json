@@ -1,0 +1,35 @@
+[
+    {
+		"id": "russo-ukrainian-2021",
+        "title": "Russo-Ukrainian War Timeline",
+        "type": "timeline",
+		"more_reading": {
+			"wikipedia": "https://en.wikipedia.org/wiki/Russo-Ukrainian_War"
+		},
+        "content": [
+            {
+                "description": "From March to April 2021, Russia commenced a major military build-up near the border, followed by a second build-up between October 2021 to February 2022 in Russia and Belarus. Throughout, the Russian government repeatedly denied it had plans to attack Ukraine.",
+                "articles": [],
+                "images": [{
+					"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/2022_Russian_Invasion_of_Ukraine_animated.gif/440px-2022_Russian_Invasion_of_Ukraine_animated.gif",
+					"caption": "Animated map of Russia's invasion of Ukraine through 5 December 2022",
+					"mature": false
+				}],
+                "dates": {
+					"type": "range",
+					"in_progress": false,
+                    "start": {
+                        "month": "3",
+                        "year": "2021",
+                        "day": "1"
+                    },
+                    "end": {
+                        "month": "2",
+                        "year": "2022",
+                        "day": "1"
+                    }
+                }
+            }
+        ]
+    }
+]
